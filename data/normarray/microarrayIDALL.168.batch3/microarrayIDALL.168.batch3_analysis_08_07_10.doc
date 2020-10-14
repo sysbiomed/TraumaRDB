@@ -1,0 +1,2115 @@
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fprq15\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;\red255\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs21 Welcome to dChip (DNA-Chip Analyzer), Build date: Jul 13 2009\par
+  Select 'Help/Website' for manual, user group and updates.\par
+\cf2\par
+08/07/10, 18:03\par
+\par
+\cf1 Running dChip in old automated mode...\par
+\par
+  Command line: dchip  -ini microarrayIDALL.168.batch3.ini -norm -model -export -log \par
+\par
+  Opening a group of data files...\par
+\cf2     Loading group settings from 'microarrayIDALL.168.batch3.ini'\par
+\par
+\cf1\{Open group microarrayIDALL.168.batch3\par
+\cf2   Treat this array type as 'Expression'\par
+  Reading in existing binary CDF file C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\HG-U133_Plus_2.cdf.bin (file format 4)...\par
+\par
+  Looking for data files of chip type 'HG-U133_Plus_2' in C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\microarrayIDALL.168.batch3.txt...\par
+\par
+  Found 1: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t7061623.cel\par
+    Accessing 't7061623.dcp' (file format 4) \par
+  Found 2: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t32937784.cel\par
+    Accessing 't32937784.dcp' (file format 4) \par
+  Found 3: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t18368456.cel\par
+    Accessing 't18368456.dcp' (file format 4) \par
+  Found 4: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13213595.cel\par
+    Accessing 't13213595.dcp' (file format 4) \par
+  Found 5: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t3554510.cel\par
+    Accessing 't3554510.dcp' (file format 4) \par
+  Found 6: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t32827992.cel\par
+    Accessing 't32827992.dcp' (file format 4) \par
+  Found 7: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t12485562.cel\par
+    Accessing 't12485562.dcp' (file format 4) \par
+  Found 8: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t17593495.cel\par
+    Accessing 't17593495.dcp' (file format 4) \par
+  Found 9: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t6243678.cel\par
+    Accessing 't6243678.dcp' (file format 4) \par
+  Found 10: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t28175962.cel\par
+    Accessing 't28175962.dcp' (file format 4) \par
+  Found 11: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t18509360.cel\par
+    Accessing 't18509360.dcp' (file format 4) \par
+  Found 12: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t20710123.cel\par
+    Accessing 't20710123.dcp' (file format 4) \par
+  Found 13: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t21659093.cel\par
+    Accessing 't21659093.dcp' (file format 4) \par
+  Found 14: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t12881564.cel\par
+    Accessing 't12881564.dcp' (file format 4) \par
+  Found 15: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t34198779.cel\par
+    Accessing 't34198779.dcp' (file format 4) \par
+  Found 16: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13856354.cel\par
+    Accessing 't13856354.dcp' (file format 4) \par
+  Found 17: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t12149903.cel\par
+    Accessing 't12149903.dcp' (file format 4) \par
+  Found 18: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t31980419.cel\par
+    Accessing 't31980419.dcp' (file format 4) \par
+  Found 19: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t2113833.cel\par
+    Accessing 't2113833.dcp' (file format 4) \par
+  Found 20: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t17169324.cel\par
+    Accessing 't17169324.dcp' (file format 4) \par
+  Found 21: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t12449908.cel\par
+    Accessing 't12449908.dcp' (file format 4) \par
+  Found 22: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t15501307.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t15501307.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: A\par
+  Found 23: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t11498346.cel\par
+    Accessing 't11498346.dcp' (file format 4) \par
+  Found 24: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t29544461.cel\par
+    Accessing 't29544461.dcp' (file format 4) \par
+  Found 25: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t3217508.cel\par
+    Accessing 't3217508.dcp' (file format 4) \par
+  Found 26: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t27890110.cel\par
+    Accessing 't27890110.dcp' (file format 4) \par
+  Found 27: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t1129691.cel\par
+    Accessing 't1129691.dcp' (file format 4) \par
+  Found 28: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t33433141.cel\par
+    Accessing 't33433141.dcp' (file format 4) \par
+  Found 29: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t322025.cel\par
+    Accessing 't322025.dcp' (file format 4) \par
+  Found 30: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t21347674.cel\par
+    Accessing 't21347674.dcp' (file format 4) \par
+  Found 31: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t15111525.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t15111525.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: A\par
+  Found 32: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t28856947.cel\par
+    Accessing 't28856947.dcp' (file format 4) \par
+  Found 33: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t32627779.cel\par
+    Accessing 't32627779.dcp' (file format 4) \par
+  Found 34: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t10999830.cel\par
+    Accessing 't10999830.dcp' (file format 4) \par
+  Found 35: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t23355260.cel\par
+    Accessing 't23355260.dcp' (file format 4) \par
+  Found 36: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t16934338.cel\par
+    Accessing 't16934338.dcp' (file format 4) \par
+  Found 37: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t20628135.cel\par
+    Accessing 't20628135.dcp' (file format 4) \par
+  Found 38: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t34247523.cel\par
+    Accessing 't34247523.dcp' (file format 4) \par
+  Found 39: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14841022.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14841022.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: P\par
+  Found 40: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t27298010.cel\par
+    Accessing 't27298010.dcp' (file format 4) \par
+  Found 41: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13513185.cel\par
+    Accessing 't13513185.dcp' (file format 4) \par
+  Found 42: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t22528008.cel\par
+    Accessing 't22528008.dcp' (file format 4) \par
+  Found 43: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t6495589.cel\par
+    Accessing 't6495589.dcp' (file format 4) \par
+  Found 44: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t5045596.cel\par
+    Accessing 't5045596.dcp' (file format 4) \par
+  Found 45: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t34814188.cel\par
+    Accessing 't34814188.dcp' (file format 4) \par
+  Found 46: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t30240283.cel\par
+    Accessing 't30240283.dcp' (file format 4) \par
+  Found 47: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t12459034.cel\par
+    Accessing 't12459034.dcp' (file format 4) \par
+  Found 48: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t17044501.cel\par
+    Accessing 't17044501.dcp' (file format 4) \par
+  Found 49: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t10899813.cel\par
+    Accessing 't10899813.dcp' (file format 4) \par
+  Found 50: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t8209678.cel\par
+    Accessing 't8209678.dcp' (file format 4) \par
+  Found 51: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t31016255.cel\par
+    Accessing 't31016255.dcp' (file format 4) \par
+  Found 52: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t2273448.cel\par
+    Accessing 't2273448.dcp' (file format 4) \par
+  Found 53: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t22676948.cel\par
+    Accessing 't22676948.dcp' (file format 4) \par
+  Found 54: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t6861920.cel\par
+    Accessing 't6861920.dcp' (file format 4) \par
+  Found 55: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t24021044.cel\par
+    Accessing 't24021044.dcp' (file format 4) \par
+  Found 56: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t32091878.cel\par
+    Accessing 't32091878.dcp' (file format 4) \par
+  Found 57: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t20874672.cel\par
+    Accessing 't20874672.dcp' (file format 4) \par
+  Found 58: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t4928077.cel\par
+    Accessing 't4928077.dcp' (file format 4) \par
+  Found 59: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t33813446.cel\par
+    Accessing 't33813446.dcp' (file format 4) \par
+  Found 60: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t1864862.cel\par
+    Accessing 't1864862.dcp' (file format 4) \par
+  Found 61: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t33497885.cel\par
+    Accessing 't33497885.dcp' (file format 4) \par
+  Found 62: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t23882491.cel\par
+    Accessing 't23882491.dcp' (file format 4) \par
+  Found 63: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t7810132.cel\par
+    Accessing 't7810132.dcp' (file format 4) \par
+  Found 64: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t31148387.cel\par
+    Accessing 't31148387.dcp' (file format 4) \par
+  Found 65: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t11368632.cel\par
+    Accessing 't11368632.dcp' (file format 4) \par
+  Found 66: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t30445722.cel\par
+    Accessing 't30445722.dcp' (file format 4) \par
+  Found 67: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t15998199.cel\par
+    Accessing 't15998199.dcp' (file format 4) \par
+  Found 68: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t34140785.cel\par
+    Accessing 't34140785.dcp' (file format 4) \par
+  Found 69: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t4946631.cel\par
+    Accessing 't4946631.dcp' (file format 4) \par
+  Found 70: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t24555420.cel\par
+    Accessing 't24555420.dcp' (file format 4) \par
+  Found 71: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t6046446.cel\par
+    Accessing 't6046446.dcp' (file format 4) \par
+  Found 72: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t17425093.cel\par
+    Accessing 't17425093.dcp' (file format 4) \par
+  Found 73: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t28844466.cel\par
+    Accessing 't28844466.dcp' (file format 4) \par
+  Found 74: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t3681631.cel\par
+    Accessing 't3681631.dcp' (file format 4) \par
+  Found 75: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t26530147.cel\par
+    Accessing 't26530147.dcp' (file format 4) \par
+  Found 76: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13176886.cel\par
+    Accessing 't13176886.dcp' (file format 4) \par
+  Found 77: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t11108725.cel\par
+    Accessing 't11108725.dcp' (file format 4) \par
+  Found 78: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t27905841.cel\par
+    Accessing 't27905841.dcp' (file format 4) \par
+  Found 79: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t30375767.cel\par
+    Accessing 't30375767.dcp' (file format 4) \par
+  Found 80: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t25371294.cel\par
+    Accessing 't25371294.dcp' (file format 4) \par
+  Found 81: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t18626919.cel\par
+    Accessing 't18626919.dcp' (file format 4) \par
+  Found 82: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t9502935.cel\par
+    Accessing 't9502935.dcp' (file format 4) \par
+  Found 83: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t31112623.cel\par
+    Accessing 't31112623.dcp' (file format 4) \par
+  Found 84: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t9278634.cel\par
+    Accessing 't9278634.dcp' (file format 4) \par
+  Found 85: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t2093819.cel\par
+    Accessing 't2093819.dcp' (file format 4) \par
+  Found 86: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t20162559.cel\par
+    Accessing 't20162559.dcp' (file format 4) \par
+  Found 87: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t30441930.cel\par
+    Accessing 't30441930.dcp' (file format 4) \par
+  Found 88: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t25638791.cel\par
+    Accessing 't25638791.dcp' (file format 4) \par
+  Found 89: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13240848.cel\par
+    Accessing 't13240848.dcp' (file format 4) \par
+  Found 90: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t5742927.cel\par
+    Accessing 't5742927.dcp' (file format 4) \par
+  Found 91: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t706802.cel\par
+    Accessing 't706802.dcp' (file format 4) \par
+  Found 92: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t405811.cel\par
+    Accessing 't405811.dcp' (file format 4) \par
+  Found 93: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t17141399.cel\par
+    Accessing 't17141399.dcp' (file format 4) \par
+  Found 94: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t4974440.cel\par
+    Accessing 't4974440.dcp' (file format 4) \par
+  Found 95: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14390447.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14390447.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: P\par
+  Found 96: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t19099249.cel\par
+    Accessing 't19099249.dcp' (file format 4) \par
+  Found 97: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t15956680.cel\par
+    Accessing 't15956680.dcp' (file format 4) \par
+  Found 98: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13408525.cel\par
+    Accessing 't13408525.dcp' (file format 4) \par
+  Found 99: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13353751.cel\par
+    Accessing 't13353751.dcp' (file format 4) \par
+  Found 100: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t31692864.cel\par
+    Accessing 't31692864.dcp' (file format 4) \par
+  Found 101: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t3264843.cel\par
+    Accessing 't3264843.dcp' (file format 4) \par
+  Found 102: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t3590823.cel\par
+    Accessing 't3590823.dcp' (file format 4) \par
+  Found 103: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t34005842.cel\par
+    Accessing 't34005842.dcp' (file format 4) \par
+  Found 104: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t33087548.cel\par
+    Accessing 't33087548.dcp' (file format 4) \par
+  Found 105: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t32966393.cel\par
+    Accessing 't32966393.dcp' (file format 4) \par
+  Found 106: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t29918401.cel\par
+    Accessing 't29918401.dcp' (file format 4) \par
+  Found 107: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t9460526.cel\par
+    Accessing 't9460526.dcp' (file format 4) \par
+  Found 108: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t4158220.cel\par
+    Accessing 't4158220.dcp' (file format 4) \par
+  Found 109: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t12159423.cel\par
+    Accessing 't12159423.dcp' (file format 4) \par
+  Found 110: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14145501.cel\par
+    Accessing 't14145501.dcp' (file format 4) \par
+  Found 111: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t18407476.cel\par
+    Accessing 't18407476.dcp' (file format 4) \par
+  Found 112: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t17231406.cel\par
+    Accessing 't17231406.dcp' (file format 4) \par
+  Found 113: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t16745279.cel\par
+    Accessing 't16745279.dcp' (file format 4) \par
+  Found 114: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t6123779.cel\par
+    Accessing 't6123779.dcp' (file format 4) \par
+  Found 115: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t26304171.cel\par
+    Accessing 't26304171.dcp' (file format 4) \par
+  Found 116: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t26626488.cel\par
+    Accessing 't26626488.dcp' (file format 4) \par
+  Found 117: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t18049489.cel\par
+    Accessing 't18049489.dcp' (file format 4) \par
+  Found 118: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t22071617.cel\par
+    Accessing 't22071617.dcp' (file format 4) \par
+  Found 119: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t30080215.cel\par
+    Accessing 't30080215.dcp' (file format 4) \par
+  Found 120: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14894550.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14894550.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: A\par
+  Found 121: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t34324077.cel\par
+    Accessing 't34324077.dcp' (file format 4) \par
+  Found 122: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t33131957.cel\par
+    Accessing 't33131957.dcp' (file format 4) \par
+  Found 123: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t27442345.cel\par
+    Accessing 't27442345.dcp' (file format 4) \par
+  Found 124: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t28973126.cel\par
+    Accessing 't28973126.dcp' (file format 4) \par
+  Found 125: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14645143.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14645143.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: P\par
+  Found 126: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14255361.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14255361.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: P\par
+  Found 127: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t29129761.cel\par
+    Accessing 't29129761.dcp' (file format 4) \par
+  Found 128: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t19172044.cel\par
+    Accessing 't19172044.dcp' (file format 4) \par
+  Found 129: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t6869106.cel\par
+    Accessing 't6869106.dcp' (file format 4) \par
+  Found 130: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t1570938.cel\par
+    Accessing 't1570938.dcp' (file format 4) \par
+  Found 131: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t18842771.cel\par
+    Accessing 't18842771.dcp' (file format 4) \par
+  Found 132: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t550856.cel\par
+    Accessing 't550856.dcp' (file format 4) \par
+  Found 133: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t26119636.cel\par
+    Accessing 't26119636.dcp' (file format 4) \par
+  Found 134: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t9341953.cel\par
+    Accessing 't9341953.dcp' (file format 4) \par
+  Found 135: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t24768712.cel\par
+    Accessing 't24768712.dcp' (file format 4) \par
+  Found 136: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t11131833.cel\par
+    Accessing 't11131833.dcp' (file format 4) \par
+  Found 137: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t5967676.cel\par
+    Accessing 't5967676.dcp' (file format 4) \par
+  Found 138: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13500597.cel\par
+    Accessing 't13500597.dcp' (file format 4) \par
+  Found 139: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t26410792.cel\par
+    Accessing 't26410792.dcp' (file format 4) \par
+  Found 140: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t15608854.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t15608854.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: A\par
+  Found 141: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t25531442.cel\par
+    Accessing 't25531442.dcp' (file format 4) \par
+  Found 142: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14444664.cel\par
+    Accessing 't14444664.dcp' (file format 4) \par
+  Found 143: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t2697760.cel\par
+    Accessing 't2697760.dcp' (file format 4) \par
+  Found 144: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t15009090.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t15009090.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: A\par
+  Found 145: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t31113955.cel\par
+    Accessing 't31113955.dcp' (file format 4) \par
+  Found 146: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t19696475.cel\par
+    Accessing 't19696475.dcp' (file format 4) \par
+  Found 147: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t27763617.cel\par
+    Accessing 't27763617.dcp' (file format 4) \par
+  Found 148: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t33597750.cel\par
+    Accessing 't33597750.dcp' (file format 4) \par
+  Found 149: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t2763192.cel\par
+    Accessing 't2763192.dcp' (file format 4) \par
+  Found 150: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t12954666.cel\par
+    Accessing 't12954666.dcp' (file format 4) \par
+  Found 151: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t3756012.cel\par
+    Accessing 't3756012.dcp' (file format 4) \par
+  Found 152: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t21937568.cel\par
+    Accessing 't21937568.dcp' (file format 4) \par
+  Found 153: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t20829799.cel\par
+    Accessing 't20829799.dcp' (file format 4) \par
+  Found 154: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t5915302.cel\par
+    Accessing 't5915302.dcp' (file format 4) \par
+  Found 155: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t3142393.cel\par
+    Accessing 't3142393.dcp' (file format 4) \par
+  Found 156: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t7067012.cel\par
+    Accessing 't7067012.dcp' (file format 4) \par
+  Found 157: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t18902355.cel\par
+    Accessing 't18902355.dcp' (file format 4) \par
+  Found 158: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t31619090.cel\par
+    Accessing 't31619090.dcp' (file format 4) \par
+  Found 159: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t30468874.cel\par
+    Accessing 't30468874.dcp' (file format 4) \par
+  Found 160: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t2618609.cel\par
+    Accessing 't2618609.dcp' (file format 4) \par
+  Found 161: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t18479900.cel\par
+    Accessing 't18479900.dcp' (file format 4) \par
+  Found 162: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t30634929.cel\par
+    Accessing 't30634929.dcp' (file format 4) \par
+  Found 163: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t27335382.cel\par
+    Accessing 't27335382.dcp' (file format 4) \par
+  Found 164: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t7220249.cel\par
+    Accessing 't7220249.dcp' (file format 4) \par
+  Found 165: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t3170355.cel\par
+    Accessing 't3170355.dcp' (file format 4) \par
+  Found 166: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t26545639.cel\par
+    Accessing 't26545639.dcp' (file format 4) \par
+  Found 167: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t11479623.cel\par
+    Accessing 't11479623.dcp' (file format 4) \par
+  Found 168: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t27405906.cel\par
+    Accessing 't27405906.dcp' (file format 4) \par
+  Found 169: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t9697794.cel\par
+    Accessing 't9697794.dcp' (file format 4) \par
+  Found 170: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t28942500.cel\par
+    Accessing 't28942500.dcp' (file format 4) \par
+  Found 171: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t5328044.cel\par
+    Accessing 't5328044.dcp' (file format 4) \par
+  Found 172: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t31912402.cel\par
+    Accessing 't31912402.dcp' (file format 4) \par
+  Found 173: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t17396313.cel\par
+    Accessing 't17396313.dcp' (file format 4) \par
+  Found 174: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t31053584.cel\par
+    Accessing 't31053584.dcp' (file format 4) \par
+  Found 175: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t1851263.cel\par
+    Accessing 't1851263.dcp' (file format 4) \par
+  Found 176: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t16777301.cel\par
+    Accessing 't16777301.dcp' (file format 4) \par
+  Found 177: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t8711664.cel\par
+    Accessing 't8711664.dcp' (file format 4) \par
+  Found 178: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13754223.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13754223.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: A\par
+  Found 179: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14227116.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14227116.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: A\par
+  Found 180: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t23191570.cel\par
+    Accessing 't23191570.dcp' (file format 4) \par
+  Found 181: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t26860416.cel\par
+    Accessing 't26860416.dcp' (file format 4) \par
+  Found 182: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t22185961.cel\par
+    Accessing 't22185961.dcp' (file format 4) \par
+  Found 183: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t23185662.cel\par
+    Accessing 't23185662.dcp' (file format 4) \par
+  Found 184: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t15551609.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t15551609.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: A\par
+  Found 185: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t33872874.cel\par
+    Accessing 't33872874.dcp' (file format 4) \par
+  Found 186: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t2656506.cel\par
+    Accessing 't2656506.dcp' (file format 4) \par
+  Found 187: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t26367393.cel\par
+    Accessing 't26367393.dcp' (file format 4) \par
+  Found 188: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t21508184.cel\par
+    Accessing 't21508184.dcp' (file format 4) \par
+  Found 189: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t16696957.cel\par
+    Accessing 't16696957.dcp' (file format 4) \par
+  Found 190: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t7336904.cel\par
+    Accessing 't7336904.dcp' (file format 4) \par
+  Found 191: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t24300964.cel\par
+    Accessing 't24300964.dcp' (file format 4) \par
+  Found 192: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t1575940.cel\par
+    Accessing 't1575940.dcp' (file format 4) \par
+  Found 193: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t12493651.cel\par
+    Accessing 't12493651.dcp' (file format 4) \par
+  Found 194: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t1649754.cel\par
+    Accessing 't1649754.dcp' (file format 4) \par
+  Found 195: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t30278916.cel\par
+    Accessing 't30278916.dcp' (file format 4) \par
+  Found 196: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t3284980.cel\par
+    Accessing 't3284980.dcp' (file format 4) \par
+  Found 197: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t24943522.cel\par
+    Accessing 't24943522.dcp' (file format 4) \par
+  Found 198: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t6312010.cel\par
+    Accessing 't6312010.dcp' (file format 4) \par
+  Found 199: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t2063313.cel\par
+    Accessing 't2063313.dcp' (file format 4) \par
+  Found 200: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t24311476.cel\par
+    Accessing 't24311476.dcp' (file format 4) \par
+  Found 201: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t28142907.cel\par
+    Accessing 't28142907.dcp' (file format 4) \par
+  Found 202: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t23377895.cel\par
+    Accessing 't23377895.dcp' (file format 4) \par
+  Found 203: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t529847.cel\par
+    Accessing 't529847.dcp' (file format 4) \par
+  Found 204: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t23478189.cel\par
+    Accessing 't23478189.dcp' (file format 4) \par
+  Found 205: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t7527822.cel\par
+    Accessing 't7527822.dcp' (file format 4) \par
+  Found 206: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t12219233.cel\par
+    Accessing 't12219233.dcp' (file format 4) \par
+  Found 207: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t8280335.cel\par
+    Accessing 't8280335.dcp' (file format 4) \par
+  Found 208: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t31251046.cel\par
+    Accessing 't31251046.dcp' (file format 4) \par
+  Found 209: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13423826.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13423826.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: A\par
+  Found 210: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t9225426.cel\par
+    Accessing 't9225426.dcp' (file format 4) \par
+  Found 211: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t22607995.cel\par
+    Accessing 't22607995.dcp' (file format 4) \par
+  Found 212: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t6813262.cel\par
+    Accessing 't6813262.dcp' (file format 4) \par
+  Found 213: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t216950.cel\par
+    Accessing 't216950.dcp' (file format 4) \par
+  Found 214: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13622759.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13622759.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: A\par
+  Found 215: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t5929199.cel\par
+    Accessing 't5929199.dcp' (file format 4) \par
+  Found 216: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t25790525.cel\par
+    Accessing 't25790525.dcp' (file format 4) \par
+  Found 217: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t7460796.cel\par
+    Accessing 't7460796.dcp' (file format 4) \par
+  Found 218: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t29086356.cel\par
+    Accessing 't29086356.dcp' (file format 4) \par
+  Found 219: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t9212742.cel\par
+    Accessing 't9212742.dcp' (file format 4) \par
+  Found 220: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t23399719.cel\par
+    Accessing 't23399719.dcp' (file format 4) \par
+  Found 221: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t19311604.cel\par
+    Accessing 't19311604.dcp' (file format 4) \par
+  Found 222: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t10359070.cel\par
+    Accessing 't10359070.dcp' (file format 4) \par
+  Found 223: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t20140864.cel\par
+    Accessing 't20140864.dcp' (file format 4) \par
+  Found 224: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t21577964.cel\par
+    Accessing 't21577964.dcp' (file format 4) \par
+  Found 225: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t27758935.cel\par
+    Accessing 't27758935.dcp' (file format 4) \par
+  Found 226: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t4307933.cel\par
+    Accessing 't4307933.dcp' (file format 4) \par
+  Found 227: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13413781.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t13413781.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: A\par
+  Found 228: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t19454054.cel\par
+    Accessing 't19454054.dcp' (file format 4) \par
+  Found 229: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t19804633.cel\par
+    Accessing 't19804633.dcp' (file format 4) \par
+  Found 230: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t31059924.cel\par
+    Accessing 't31059924.dcp' (file format 4) \par
+  Found 231: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t28852513.cel\par
+    Accessing 't28852513.dcp' (file format 4) \par
+  Found 232: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t3110250.cel\par
+    Accessing 't3110250.dcp' (file format 4) \par
+  Found 233: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t22820303.cel\par
+    Accessing 't22820303.dcp' (file format 4) \par
+  Found 234: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t1920399.cel\par
+    Accessing 't1920399.dcp' (file format 4) \par
+  Found 235: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t25202905.cel\par
+    Accessing 't25202905.dcp' (file format 4) \par
+  Found 236: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t9082263.cel\par
+    Accessing 't9082263.dcp' (file format 4) \par
+  Found 237: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t28187831.cel\par
+    Accessing 't28187831.dcp' (file format 4) \par
+  Found 238: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t28615758.cel\par
+    Accessing 't28615758.dcp' (file format 4) \par
+  Found 239: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t558364.cel\par
+    Accessing 't558364.dcp' (file format 4) \par
+  Found 240: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14370931.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t14370931.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: A\par
+  Found 241: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t24893174.cel\par
+    Accessing 't24893174.dcp' (file format 4) \par
+  Found 242: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t32988806.cel\par
+    Accessing 't32988806.dcp' (file format 4) \par
+  Found 243: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t18949802.cel\par
+    Accessing 't18949802.dcp' (file format 4) \par
+  Found 244: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t9958876.cel\par
+    Accessing 't9958876.dcp' (file format 4) \par
+  Found 245: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t11479583.cel\par
+    Accessing 't11479583.dcp' (file format 4) \par
+  Found 246: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t12668640.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t12668640.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: A\par
+  Found 247: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t29940087.cel\par
+    Accessing 't29940087.dcp' (file format 4) \par
+  Found 248: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t1398223.cel\par
+    Accessing 't1398223.dcp' (file format 4) \par
+  Found 249: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t25234078.cel\par
+    Accessing 't25234078.dcp' (file format 4) \par
+  Found 250: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t30672194.cel\par
+    Accessing 't30672194.dcp' (file format 4) \par
+  Found 251: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t23482001.cel\par
+    Accessing 't23482001.dcp' (file format 4) \par
+  Found 252: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t33641594.cel\par
+    Accessing 't33641594.dcp' (file format 4) \par
+  Found 253: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t7099579.cel\par
+    Accessing 't7099579.dcp' (file format 4) \par
+  Found 254: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t28879073.cel\par
+    Accessing 't28879073.dcp' (file format 4) \par
+  Found 255: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t23280387.cel\par
+    Accessing 't23280387.dcp' (file format 4) \par
+  Found 256: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t6351726.cel\par
+    Accessing 't6351726.dcp' (file format 4) \par
+  Found 257: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t20763375.cel\par
+    Accessing 't20763375.dcp' (file format 4) \par
+  Found 258: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t16431262.cel\par
+    Accessing 't16431262.dcp' (file format 4) \par
+  Found 259: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t15938522.cel\par
+    Accessing 't15938522.dcp' (file format 4) \par
+  Found 260: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t34452916.cel\par
+    Accessing 't34452916.dcp' (file format 4) \par
+  Found 261: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t29264539.cel\par
+    Accessing 't29264539.dcp' (file format 4) \par
+  Found 262: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t34885639.cel\par
+    Accessing 't34885639.dcp' (file format 4) \par
+  Found 263: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t1656495.cel\par
+    Accessing 't1656495.dcp' (file format 4) \par
+  Found 264: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t17496571.cel\par
+    Accessing 't17496571.dcp' (file format 4) \par
+  Found 265: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t17586933.cel\par
+    Accessing 't17586933.dcp' (file format 4) \par
+  Found 266: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t7499974.cel\par
+    Accessing 't7499974.dcp' (file format 4) \par
+  Found 267: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t16360809.cel\par
+    Accessing 't16360809.dcp' (file format 4) \par
+  Found 268: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t25736571.cel\par
+    Accessing 't25736571.dcp' (file format 4) \par
+  Found 269: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t20720340.cel\par
+    Accessing 't20720340.dcp' (file format 4) \par
+  Found 270: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t12746503.cel\par
+    Reading CEL file...\par
+      Line 1350000\par
+\cf3       Cannot find Affymetrix analysis call file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t12746503.txt'\par
+\cf2       No matching TXT file; calculating Presence calls...\par
+        Gene 54600: A\par
+  Found 271: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t33277522.cel\par
+    Accessing 't33277522.dcp' (file format 4) \par
+  Found 272: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t9901664.cel\par
+    Accessing 't9901664.dcp' (file format 4) \par
+  Found 273: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t16740868.cel\par
+    Accessing 't16740868.dcp' (file format 4) \par
+  Found 274: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t30593895.cel\par
+    Accessing 't30593895.dcp' (file format 4) \par
+  Found 275: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t11111799.cel\par
+    Accessing 't11111799.dcp' (file format 4) \par
+  Found 276: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t6061608.cel\par
+    Accessing 't6061608.dcp' (file format 4) \par
+  Found 277: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t23853763.cel\par
+    Accessing 't23853763.dcp' (file format 4) \par
+  Found 278: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t3759201.cel\par
+    Accessing 't3759201.dcp' (file format 4) \par
+  Found 279: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t31373037.cel\par
+    Accessing 't31373037.dcp' (file format 4) \par
+  Found 280: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t7136461.cel\par
+    Accessing 't7136461.dcp' (file format 4) \par
+  Found 281: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t3824246.cel\par
+    Accessing 't3824246.dcp' (file format 4) \par
+  Found 282: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t21867245.cel\par
+    Accessing 't21867245.dcp' (file format 4) \par
+  Found 283: C:\\Users\\chuentan\\Documents\\Archive\\data\\CEL\\t26202907.cel\par
+    Accessing 't26202907.dcp' (file format 4) \par
+\par
+\cf3   Note: non-normalized probe data will be used\par
+\par
+\cf2   Calculating background...\par
+\par
+  Writing array summary file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\csv\\microarrayIDALL.168.batch3\\microarrayIDALL.168.batch3_array_summary.xls'\par
+    Group "microarrayIDALL.168.batch3" contains 283 arrays\par
+\par
+  Treat all the 283 arrays as 283 samples and 1 sample groups\par
+\par
+\cf1 Finished in 00 hours 18 minutes 21 seconds\}\par
+\par
+\{Normalize arrays using probes of 'Invariant set' and 'Running median' smoothing\par
+\cf2   Baseline array: t20628135\par
+    Accessing 't20628135.dcp' (file format 4) \par
+    Median probe intensity: 89\par
+  1: t7061623\par
+    Accessing 't7061623.dcp' (file format 4) \par
+    Searching Invariant-set: 19300\par
+    Median probe intensity: 95 -> 88\par
+  2: t32937784\par
+    Accessing 't32937784.dcp' (file format 4) \par
+    Searching Invariant-set: 23231\par
+    Median probe intensity: 109 -> 90\par
+  3: t18368456\par
+    Accessing 't18368456.dcp' (file format 4) \par
+    Searching Invariant-set: 19505\par
+    Median probe intensity: 98 -> 88\par
+  4: t13213595\par
+    Accessing 't13213595.dcp' (file format 4) \par
+    Searching Invariant-set: 18884\par
+    Median probe intensity: 99 -> 89\par
+  5: t3554510\par
+    Accessing 't3554510.dcp' (file format 4) \par
+    Searching Invariant-set: 16399\par
+    Median probe intensity: 75 -> 89\par
+  6: t32827992\par
+    Accessing 't32827992.dcp' (file format 4) \par
+    Searching Invariant-set: 20125\par
+    Median probe intensity: 102 -> 89\par
+  7: t12485562\par
+    Accessing 't12485562.dcp' (file format 4) \par
+    Searching Invariant-set: 20510\par
+    Median probe intensity: 114 -> 89\par
+  8: t17593495\par
+    Accessing 't17593495.dcp' (file format 4) \par
+    Searching Invariant-set: 25450\par
+    Median probe intensity: 120 -> 89\par
+  9: t6243678\par
+    Accessing 't6243678.dcp' (file format 4) \par
+    Searching Invariant-set: 20522\par
+    Median probe intensity: 91 -> 89\par
+  10: t28175962\par
+    Accessing 't28175962.dcp' (file format 4) \par
+    Searching Invariant-set: 12030\par
+    Median probe intensity: 61 -> 88\par
+  11: t18509360\par
+    Accessing 't18509360.dcp' (file format 4) \par
+    Searching Invariant-set: 26202\par
+    Median probe intensity: 123 -> 88\par
+  12: t20710123\par
+    Accessing 't20710123.dcp' (file format 4) \par
+    Searching Invariant-set: 14020\par
+    Median probe intensity: 66 -> 89\par
+  13: t21659093\par
+    Accessing 't21659093.dcp' (file format 4) \par
+    Searching Invariant-set: 16711\par
+    Median probe intensity: 82 -> 89\par
+  14: t12881564\par
+    Accessing 't12881564.dcp' (file format 4) \par
+    Searching Invariant-set: 11672\par
+    Median probe intensity: 64 -> 88\par
+  15: t34198779\par
+    Accessing 't34198779.dcp' (file format 4) \par
+    Searching Invariant-set: 14642\par
+    Median probe intensity: 69 -> 89\par
+  16: t13856354\par
+    Accessing 't13856354.dcp' (file format 4) \par
+    Searching Invariant-set: 14751\par
+    Median probe intensity: 69 -> 89\par
+  17: t12149903\par
+    Accessing 't12149903.dcp' (file format 4) \par
+    Searching Invariant-set: 19144\par
+    Median probe intensity: 85 -> 90\par
+  18: t31980419\par
+    Accessing 't31980419.dcp' (file format 4) \par
+    Searching Invariant-set: 22460\par
+    Median probe intensity: 103 -> 89\par
+  19: t2113833\par
+    Accessing 't2113833.dcp' (file format 4) \par
+    Searching Invariant-set: 23127\par
+    Median probe intensity: 87 -> 88\par
+  20: t17169324\par
+    Accessing 't17169324.dcp' (file format 4) \par
+    Searching Invariant-set: 15811\par
+    Median probe intensity: 73 -> 88\par
+  21: t12449908\par
+    Accessing 't12449908.dcp' (file format 4) \par
+    Searching Invariant-set: 17836\par
+    Median probe intensity: 72 -> 89\par
+  22: t15501307\par
+    Accessing 't15501307.dcp' (file format 4) \par
+    Searching Invariant-set: 24672\par
+    Median probe intensity: 84 -> 90\par
+  23: t11498346\par
+    Accessing 't11498346.dcp' (file format 4) \par
+    Searching Invariant-set: 16834\par
+    Median probe intensity: 74 -> 88\par
+  24: t29544461\par
+    Accessing 't29544461.dcp' (file format 4) \par
+    Searching Invariant-set: 23146\par
+    Median probe intensity: 116 -> 89\par
+  25: t3217508\par
+    Accessing 't3217508.dcp' (file format 4) \par
+    Searching Invariant-set: 23430\par
+    Median probe intensity: 91 -> 89\par
+  26: t27890110\par
+    Accessing 't27890110.dcp' (file format 4) \par
+    Searching Invariant-set: 18586\par
+    Median probe intensity: 86 -> 88\par
+  27: t1129691\par
+    Accessing 't1129691.dcp' (file format 4) \par
+    Searching Invariant-set: 12616\par
+    Median probe intensity: 60 -> 88\par
+  28: t33433141\par
+    Accessing 't33433141.dcp' (file format 4) \par
+    Searching Invariant-set: 17967\par
+    Median probe intensity: 68 -> 88\par
+  29: t322025\par
+    Accessing 't322025.dcp' (file format 4) \par
+    Searching Invariant-set: 10229\par
+    Median probe intensity: 60 -> 89\par
+  30: t21347674\par
+    Accessing 't21347674.dcp' (file format 4) \par
+    Searching Invariant-set: 25963\par
+    Median probe intensity: 120 -> 89\par
+  31: t15111525\par
+    Accessing 't15111525.dcp' (file format 4) \par
+    Searching Invariant-set: 19139\par
+    Median probe intensity: 79 -> 89\par
+  32: t28856947\par
+    Accessing 't28856947.dcp' (file format 4) \par
+    Searching Invariant-set: 21685\par
+    Median probe intensity: 101 -> 89\par
+  33: t32627779\par
+    Accessing 't32627779.dcp' (file format 4) \par
+    Searching Invariant-set: 24307\par
+    Median probe intensity: 109 -> 89\par
+  34: t10999830\par
+    Accessing 't10999830.dcp' (file format 4) \par
+    Searching Invariant-set: 15050\par
+    Median probe intensity: 85 -> 88\par
+  35: t23355260\par
+    Accessing 't23355260.dcp' (file format 4) \par
+    Searching Invariant-set: 17664\par
+    Median probe intensity: 68 -> 89\par
+  36: t16934338\par
+    Accessing 't16934338.dcp' (file format 4) \par
+    Searching Invariant-set: 12914\par
+    Median probe intensity: 69 -> 89\par
+  37: t20628135\par
+    Accessing 't20628135.dcp' (file format 4) \par
+    Do not normalize the baseline array\par
+  38: t34247523\par
+    Accessing 't34247523.dcp' (file format 4) \par
+    Searching Invariant-set: 21377\par
+    Median probe intensity: 115 -> 89\par
+  39: t14841022\par
+    Accessing 't14841022.dcp' (file format 4) \par
+    Searching Invariant-set: 17610\par
+    Median probe intensity: 92 -> 88\par
+  40: t27298010\par
+    Accessing 't27298010.dcp' (file format 4) \par
+    Searching Invariant-set: 21481\par
+    Median probe intensity: 89 -> 89\par
+  41: t13513185\par
+    Accessing 't13513185.dcp' (file format 4) \par
+    Searching Invariant-set: 14516\par
+    Median probe intensity: 78 -> 88\par
+  42: t22528008\par
+    Accessing 't22528008.dcp' (file format 4) \par
+    Searching Invariant-set: 14028\par
+    Median probe intensity: 62 -> 88\par
+  43: t6495589\par
+    Accessing 't6495589.dcp' (file format 4) \par
+    Searching Invariant-set: 27220\par
+    Median probe intensity: 105 -> 89\par
+  44: t5045596\par
+    Accessing 't5045596.dcp' (file format 4) \par
+    Searching Invariant-set: 20947\par
+    Median probe intensity: 138 -> 88\par
+  45: t34814188\par
+    Accessing 't34814188.dcp' (file format 4) \par
+    Searching Invariant-set: 25240\par
+    Median probe intensity: 91 -> 89\par
+  46: t30240283\par
+    Accessing 't30240283.dcp' (file format 4) \par
+    Searching Invariant-set: 25390\par
+    Median probe intensity: 85 -> 88\par
+  47: t12459034\par
+    Accessing 't12459034.dcp' (file format 4) \par
+    Searching Invariant-set: 12624\par
+    Median probe intensity: 71 -> 88\par
+  48: t17044501\par
+    Accessing 't17044501.dcp' (file format 4) \par
+    Searching Invariant-set: 23207\par
+    Median probe intensity: 86 -> 88\par
+  49: t10899813\par
+    Accessing 't10899813.dcp' (file format 4) \par
+    Searching Invariant-set: 24711\par
+    Median probe intensity: 84 -> 89\par
+  50: t8209678\par
+    Accessing 't8209678.dcp' (file format 4) \par
+    Searching Invariant-set: 21808\par
+    Median probe intensity: 96 -> 89\par
+  51: t31016255\par
+    Accessing 't31016255.dcp' (file format 4) \par
+    Searching Invariant-set: 23118\par
+    Median probe intensity: 115 -> 89\par
+  52: t2273448\par
+    Accessing 't2273448.dcp' (file format 4) \par
+    Searching Invariant-set: 15714\par
+    Median probe intensity: 84 -> 87\par
+  53: t22676948\par
+    Accessing 't22676948.dcp' (file format 4) \par
+    Searching Invariant-set: 16800\par
+    Median probe intensity: 75 -> 89\par
+  54: t6861920\par
+    Accessing 't6861920.dcp' (file format 4) \par
+    Searching Invariant-set: 18583\par
+    Median probe intensity: 88 -> 89\par
+  55: t24021044\par
+    Accessing 't24021044.dcp' (file format 4) \par
+    Searching Invariant-set: 16520\par
+    Median probe intensity: 79 -> 88\par
+  56: t32091878\par
+    Accessing 't32091878.dcp' (file format 4) \par
+    Searching Invariant-set: 20112\par
+    Median probe intensity: 89 -> 89\par
+  57: t20874672\par
+    Accessing 't20874672.dcp' (file format 4) \par
+    Searching Invariant-set: 16502\par
+    Median probe intensity: 76 -> 89\par
+  58: t4928077\par
+    Accessing 't4928077.dcp' (file format 4) \par
+    Searching Invariant-set: 21590\par
+    Median probe intensity: 124 -> 89\par
+  59: t33813446\par
+    Accessing 't33813446.dcp' (file format 4) \par
+    Searching Invariant-set: 21700\par
+    Median probe intensity: 99 -> 88\par
+  60: t1864862\par
+    Accessing 't1864862.dcp' (file format 4) \par
+    Searching Invariant-set: 20750\par
+    Median probe intensity: 99 -> 88\par
+  61: t33497885\par
+    Accessing 't33497885.dcp' (file format 4) \par
+    Searching Invariant-set: 21094\par
+    Median probe intensity: 113 -> 89\par
+  62: t23882491\par
+    Accessing 't23882491.dcp' (file format 4) \par
+    Searching Invariant-set: 13931\par
+    Median probe intensity: 71 -> 88\par
+  63: t7810132\par
+    Accessing 't7810132.dcp' (file format 4) \par
+    Searching Invariant-set: 18675\par
+    Median probe intensity: 84 -> 89\par
+  64: t31148387\par
+    Accessing 't31148387.dcp' (file format 4) \par
+    Searching Invariant-set: 18076\par
+    Median probe intensity: 66 -> 89\par
+  65: t11368632\par
+    Accessing 't11368632.dcp' (file format 4) \par
+    Searching Invariant-set: 22244\par
+    Median probe intensity: 103 -> 88\par
+  66: t30445722\par
+    Accessing 't30445722.dcp' (file format 4) \par
+    Searching Invariant-set: 22619\par
+    Median probe intensity: 119 -> 88\par
+  67: t15998199\par
+    Accessing 't15998199.dcp' (file format 4) \par
+    Searching Invariant-set: 14977\par
+    Median probe intensity: 61 -> 89\par
+  68: t34140785\par
+    Accessing 't34140785.dcp' (file format 4) \par
+    Searching Invariant-set: 14039\par
+    Median probe intensity: 69 -> 88\par
+  69: t4946631\par
+    Accessing 't4946631.dcp' (file format 4) \par
+    Searching Invariant-set: 17057\par
+    Median probe intensity: 76 -> 88\par
+  70: t24555420\par
+    Accessing 't24555420.dcp' (file format 4) \par
+    Searching Invariant-set: 26001\par
+    Median probe intensity: 126 -> 88\par
+  71: t6046446\par
+    Accessing 't6046446.dcp' (file format 4) \par
+    Searching Invariant-set: 21573\par
+    Median probe intensity: 77 -> 89\par
+  72: t17425093\par
+    Accessing 't17425093.dcp' (file format 4) \par
+    Searching Invariant-set: 19222\par
+    Median probe intensity: 87 -> 88\par
+  73: t28844466\par
+    Accessing 't28844466.dcp' (file format 4) \par
+    Searching Invariant-set: 12614\par
+    Median probe intensity: 61 -> 89\par
+  74: t3681631\par
+    Accessing 't3681631.dcp' (file format 4) \par
+    Searching Invariant-set: 22307\par
+    Median probe intensity: 86 -> 89\par
+  75: t26530147\par
+    Accessing 't26530147.dcp' (file format 4) \par
+    Searching Invariant-set: 25567\par
+    Median probe intensity: 116 -> 89\par
+  76: t13176886\par
+    Accessing 't13176886.dcp' (file format 4) \par
+    Searching Invariant-set: 26710\par
+    Median probe intensity: 120 -> 89\par
+  77: t11108725\par
+    Accessing 't11108725.dcp' (file format 4) \par
+    Searching Invariant-set: 21355\par
+    Median probe intensity: 97 -> 89\par
+  78: t27905841\par
+    Accessing 't27905841.dcp' (file format 4) \par
+    Searching Invariant-set: 24334\par
+    Median probe intensity: 76 -> 88\par
+  79: t30375767\par
+    Accessing 't30375767.dcp' (file format 4) \par
+    Searching Invariant-set: 12206\par
+    Median probe intensity: 60 -> 88\par
+  80: t25371294\par
+    Accessing 't25371294.dcp' (file format 4) \par
+    Searching Invariant-set: 21435\par
+    Median probe intensity: 89 -> 89\par
+  81: t18626919\par
+    Accessing 't18626919.dcp' (file format 4) \par
+    Searching Invariant-set: 18245\par
+    Median probe intensity: 73 -> 89\par
+  82: t9502935\par
+    Accessing 't9502935.dcp' (file format 4) \par
+    Searching Invariant-set: 21089\par
+    Median probe intensity: 122 -> 88\par
+  83: t31112623\par
+    Accessing 't31112623.dcp' (file format 4) \par
+    Searching Invariant-set: 23854\par
+    Median probe intensity: 97 -> 89\par
+  84: t9278634\par
+    Accessing 't9278634.dcp' (file format 4) \par
+    Searching Invariant-set: 20184\par
+    Median probe intensity: 82 -> 89\par
+  85: t2093819\par
+    Accessing 't2093819.dcp' (file format 4) \par
+    Searching Invariant-set: 23538\par
+    Median probe intensity: 74 -> 89\par
+  86: t20162559\par
+    Accessing 't20162559.dcp' (file format 4) \par
+    Searching Invariant-set: 24916\par
+    Median probe intensity: 90 -> 88\par
+  87: t30441930\par
+    Accessing 't30441930.dcp' (file format 4) \par
+    Searching Invariant-set: 19599\par
+    Median probe intensity: 88 -> 89\par
+  88: t25638791\par
+    Accessing 't25638791.dcp' (file format 4) \par
+    Searching Invariant-set: 21092\par
+    Median probe intensity: 123 -> 89\par
+  89: t13240848\par
+    Accessing 't13240848.dcp' (file format 4) \par
+    Searching Invariant-set: 25417\par
+    Median probe intensity: 83 -> 89\par
+  90: t5742927\par
+    Accessing 't5742927.dcp' (file format 4) \par
+    Searching Invariant-set: 12102\par
+    Median probe intensity: 63 -> 88\par
+  91: t706802\par
+    Accessing 't706802.dcp' (file format 4) \par
+    Searching Invariant-set: 16255\par
+    Median probe intensity: 80 -> 88\par
+  92: t405811\par
+    Accessing 't405811.dcp' (file format 4) \par
+    Searching Invariant-set: 19735\par
+    Median probe intensity: 106 -> 88\par
+  93: t17141399\par
+    Accessing 't17141399.dcp' (file format 4) \par
+    Searching Invariant-set: 20667\par
+    Median probe intensity: 85 -> 89\par
+  94: t4974440\par
+    Accessing 't4974440.dcp' (file format 4) \par
+    Searching Invariant-set: 19935\par
+    Median probe intensity: 88 -> 89\par
+  95: t14390447\par
+    Accessing 't14390447.dcp' (file format 4) \par
+    Searching Invariant-set: 19046\par
+    Median probe intensity: 85 -> 89\par
+  96: t19099249\par
+    Accessing 't19099249.dcp' (file format 4) \par
+    Searching Invariant-set: 19282\par
+    Median probe intensity: 98 -> 88\par
+  97: t15956680\par
+    Accessing 't15956680.dcp' (file format 4) \par
+    Searching Invariant-set: 23127\par
+    Median probe intensity: 97 -> 89\par
+  98: t13408525\par
+    Accessing 't13408525.dcp' (file format 4) \par
+    Searching Invariant-set: 26834\par
+    Median probe intensity: 101 -> 89\par
+  99: t13353751\par
+    Accessing 't13353751.dcp' (file format 4) \par
+    Searching Invariant-set: 19435\par
+    Median probe intensity: 96 -> 88\par
+  100: t31692864\par
+    Accessing 't31692864.dcp' (file format 4) \par
+    Searching Invariant-set: 22571\par
+    Median probe intensity: 80 -> 88\par
+  101: t3264843\par
+    Accessing 't3264843.dcp' (file format 4) \par
+    Searching Invariant-set: 16865\par
+    Median probe intensity: 71 -> 89\par
+  102: t3590823\par
+    Accessing 't3590823.dcp' (file format 4) \par
+    Searching Invariant-set: 21364\par
+    Median probe intensity: 99 -> 90\par
+  103: t34005842\par
+    Accessing 't34005842.dcp' (file format 4) \par
+    Searching Invariant-set: 15908\par
+    Median probe intensity: 66 -> 89\par
+  104: t33087548\par
+    Accessing 't33087548.dcp' (file format 4) \par
+    Searching Invariant-set: 12624\par
+    Median probe intensity: 70 -> 89\par
+  105: t32966393\par
+    Accessing 't32966393.dcp' (file format 4) \par
+    Searching Invariant-set: 20632\par
+    Median probe intensity: 134 -> 89\par
+  106: t29918401\par
+    Accessing 't29918401.dcp' (file format 4) \par
+    Searching Invariant-set: 23150\par
+    Median probe intensity: 95 -> 89\par
+  107: t9460526\par
+    Accessing 't9460526.dcp' (file format 4) \par
+    Searching Invariant-set: 20470\par
+    Median probe intensity: 134 -> 88\par
+  108: t4158220\par
+    Accessing 't4158220.dcp' (file format 4) \par
+    Searching Invariant-set: 21660\par
+    Median probe intensity: 92 -> 88\par
+  109: t12159423\par
+    Accessing 't12159423.dcp' (file format 4) \par
+    Searching Invariant-set: 24882\par
+    Median probe intensity: 110 -> 89\par
+  110: t14145501\par
+    Accessing 't14145501.dcp' (file format 4) \par
+    Searching Invariant-set: 21220\par
+    Median probe intensity: 84 -> 89\par
+  111: t18407476\par
+    Accessing 't18407476.dcp' (file format 4) \par
+    Searching Invariant-set: 21314\par
+    Median probe intensity: 90 -> 88\par
+  112: t17231406\par
+    Accessing 't17231406.dcp' (file format 4) \par
+    Searching Invariant-set: 22737\par
+    Median probe intensity: 82 -> 90\par
+  113: t16745279\par
+    Accessing 't16745279.dcp' (file format 4) \par
+    Searching Invariant-set: 17659\par
+    Median probe intensity: 97 -> 88\par
+  114: t6123779\par
+    Accessing 't6123779.dcp' (file format 4) \par
+    Searching Invariant-set: 11238\par
+    Median probe intensity: 73 -> 88\par
+  115: t26304171\par
+    Accessing 't26304171.dcp' (file format 4) \par
+    Searching Invariant-set: 19148\par
+    Median probe intensity: 129 -> 89\par
+  116: t26626488\par
+    Accessing 't26626488.dcp' (file format 4) \par
+    Searching Invariant-set: 19196\par
+    Median probe intensity: 96 -> 88\par
+  117: t18049489\par
+    Accessing 't18049489.dcp' (file format 4) \par
+    Searching Invariant-set: 23822\par
+    Median probe intensity: 124 -> 89\par
+  118: t22071617\par
+    Accessing 't22071617.dcp' (file format 4) \par
+    Searching Invariant-set: 14842\par
+    Median probe intensity: 87 -> 90\par
+  119: t30080215\par
+    Accessing 't30080215.dcp' (file format 4) \par
+    Searching Invariant-set: 13382\par
+    Median probe intensity: 73 -> 89\par
+  120: t14894550\par
+    Accessing 't14894550.dcp' (file format 4) \par
+    Searching Invariant-set: 20519\par
+    Median probe intensity: 154 -> 88\par
+  121: t34324077\par
+    Accessing 't34324077.dcp' (file format 4) \par
+    Searching Invariant-set: 20707\par
+    Median probe intensity: 122 -> 89\par
+  122: t33131957\par
+    Accessing 't33131957.dcp' (file format 4) \par
+    Searching Invariant-set: 13643\par
+    Median probe intensity: 77 -> 88\par
+  123: t27442345\par
+    Accessing 't27442345.dcp' (file format 4) \par
+    Searching Invariant-set: 19482\par
+    Median probe intensity: 103 -> 89\par
+  124: t28973126\par
+    Accessing 't28973126.dcp' (file format 4) \par
+    Searching Invariant-set: 17268\par
+    Median probe intensity: 99 -> 89\par
+  125: t14645143\par
+    Accessing 't14645143.dcp' (file format 4) \par
+    Searching Invariant-set: 20434\par
+    Median probe intensity: 110 -> 88\par
+  126: t14255361\par
+    Accessing 't14255361.dcp' (file format 4) \par
+    Searching Invariant-set: 20015\par
+    Median probe intensity: 104 -> 89\par
+  127: t29129761\par
+    Accessing 't29129761.dcp' (file format 4) \par
+    Searching Invariant-set: 15494\par
+    Median probe intensity: 75 -> 89\par
+  128: t19172044\par
+    Accessing 't19172044.dcp' (file format 4) \par
+    Searching Invariant-set: 14204\par
+    Median probe intensity: 70 -> 90\par
+  129: t6869106\par
+    Accessing 't6869106.dcp' (file format 4) \par
+    Searching Invariant-set: 23392\par
+    Median probe intensity: 92 -> 89\par
+  130: t1570938\par
+    Accessing 't1570938.dcp' (file format 4) \par
+    Searching Invariant-set: 20453\par
+    Median probe intensity: 88 -> 89\par
+  131: t18842771\par
+    Accessing 't18842771.dcp' (file format 4) \par
+    Searching Invariant-set: 21171\par
+    Median probe intensity: 94 -> 89\par
+  132: t550856\par
+    Accessing 't550856.dcp' (file format 4) \par
+    Searching Invariant-set: 15884\par
+    Median probe intensity: 76 -> 89\par
+  133: t26119636\par
+    Accessing 't26119636.dcp' (file format 4) \par
+    Searching Invariant-set: 19056\par
+    Median probe intensity: 102 -> 89\par
+  134: t9341953\par
+    Accessing 't9341953.dcp' (file format 4) \par
+    Searching Invariant-set: 21283\par
+    Median probe intensity: 84 -> 89\par
+  135: t24768712\par
+    Accessing 't24768712.dcp' (file format 4) \par
+    Searching Invariant-set: 23360\par
+    Median probe intensity: 81 -> 89\par
+  136: t11131833\par
+    Accessing 't11131833.dcp' (file format 4) \par
+    Searching Invariant-set: 19167\par
+    Median probe intensity: 99 -> 89\par
+  137: t5967676\par
+    Accessing 't5967676.dcp' (file format 4) \par
+    Searching Invariant-set: 16007\par
+    Median probe intensity: 77 -> 89\par
+  138: t13500597\par
+    Accessing 't13500597.dcp' (file format 4) \par
+    Searching Invariant-set: 17161\par
+    Median probe intensity: 87 -> 88\par
+  139: t26410792\par
+    Accessing 't26410792.dcp' (file format 4) \par
+    Searching Invariant-set: 15520\par
+    Median probe intensity: 70 -> 89\par
+  140: t15608854\par
+    Accessing 't15608854.dcp' (file format 4) \par
+    Searching Invariant-set: 15027\par
+    Median probe intensity: 68 -> 89\par
+  141: t25531442\par
+    Accessing 't25531442.dcp' (file format 4) \par
+    Searching Invariant-set: 18478\par
+    Median probe intensity: 121 -> 89\par
+  142: t14444664\par
+    Accessing 't14444664.dcp' (file format 4) \par
+    Searching Invariant-set: 19549\par
+    Median probe intensity: 101 -> 89\par
+  143: t2697760\par
+    Accessing 't2697760.dcp' (file format 4) \par
+    Searching Invariant-set: 19821\par
+    Median probe intensity: 105 -> 89\par
+  144: t15009090\par
+    Accessing 't15009090.dcp' (file format 4) \par
+    Searching Invariant-set: 18486\par
+    Median probe intensity: 81 -> 88\par
+  145: t31113955\par
+    Accessing 't31113955.dcp' (file format 4) \par
+    Searching Invariant-set: 17757\par
+    Median probe intensity: 82 -> 88\par
+  146: t19696475\par
+    Accessing 't19696475.dcp' (file format 4) \par
+    Searching Invariant-set: 11061\par
+    Median probe intensity: 68 -> 89\par
+  147: t27763617\par
+    Accessing 't27763617.dcp' (file format 4) \par
+    Searching Invariant-set: 22601\par
+    Median probe intensity: 93 -> 89\par
+  148: t33597750\par
+    Accessing 't33597750.dcp' (file format 4) \par
+    Searching Invariant-set: 21153\par
+    Median probe intensity: 87 -> 88\par
+  149: t2763192\par
+    Accessing 't2763192.dcp' (file format 4) \par
+    Searching Invariant-set: 20445\par
+    Median probe intensity: 82 -> 88\par
+  150: t12954666\par
+    Accessing 't12954666.dcp' (file format 4) \par
+    Searching Invariant-set: 25800\par
+    Median probe intensity: 87 -> 90\par
+  151: t3756012\par
+    Accessing 't3756012.dcp' (file format 4) \par
+    Searching Invariant-set: 19298\par
+    Median probe intensity: 89 -> 89\par
+  152: t21937568\par
+    Accessing 't21937568.dcp' (file format 4) \par
+    Searching Invariant-set: 19894\par
+    Median probe intensity: 89 -> 88\par
+  153: t20829799\par
+    Accessing 't20829799.dcp' (file format 4) \par
+    Searching Invariant-set: 19550\par
+    Median probe intensity: 102 -> 88\par
+  154: t5915302\par
+    Accessing 't5915302.dcp' (file format 4) \par
+    Searching Invariant-set: 19744\par
+    Median probe intensity: 92 -> 89\par
+  155: t3142393\par
+    Accessing 't3142393.dcp' (file format 4) \par
+    Searching Invariant-set: 18694\par
+    Median probe intensity: 88 -> 89\par
+  156: t7067012\par
+    Accessing 't7067012.dcp' (file format 4) \par
+    Searching Invariant-set: 24481\par
+    Median probe intensity: 89 -> 88\par
+  157: t18902355\par
+    Accessing 't18902355.dcp' (file format 4) \par
+    Searching Invariant-set: 12664\par
+    Median probe intensity: 84 -> 89\par
+  158: t31619090\par
+    Accessing 't31619090.dcp' (file format 4) \par
+    Searching Invariant-set: 16050\par
+    Median probe intensity: 82 -> 88\par
+  159: t30468874\par
+    Accessing 't30468874.dcp' (file format 4) \par
+    Searching Invariant-set: 20762\par
+    Median probe intensity: 119 -> 89\par
+  160: t2618609\par
+    Accessing 't2618609.dcp' (file format 4) \par
+    Searching Invariant-set: 23634\par
+    Median probe intensity: 120 -> 89\par
+  161: t18479900\par
+    Accessing 't18479900.dcp' (file format 4) \par
+    Searching Invariant-set: 16907\par
+    Median probe intensity: 85 -> 89\par
+  162: t30634929\par
+    Accessing 't30634929.dcp' (file format 4) \par
+    Searching Invariant-set: 11558\par
+    Median probe intensity: 65 -> 88\par
+  163: t27335382\par
+    Accessing 't27335382.dcp' (file format 4) \par
+    Searching Invariant-set: 18095\par
+    Median probe intensity: 88 -> 88\par
+  164: t7220249\par
+    Accessing 't7220249.dcp' (file format 4) \par
+    Searching Invariant-set: 18576\par
+    Median probe intensity: 90 -> 89\par
+  165: t3170355\par
+    Accessing 't3170355.dcp' (file format 4) \par
+    Searching Invariant-set: 20316\par
+    Median probe intensity: 105 -> 88\par
+  166: t26545639\par
+    Accessing 't26545639.dcp' (file format 4) \par
+    Searching Invariant-set: 18750\par
+    Median probe intensity: 92 -> 90\par
+  167: t11479623\par
+    Accessing 't11479623.dcp' (file format 4) \par
+    Searching Invariant-set: 22513\par
+    Median probe intensity: 111 -> 89\par
+  168: t27405906\par
+    Accessing 't27405906.dcp' (file format 4) \par
+    Searching Invariant-set: 14021\par
+    Median probe intensity: 87 -> 89\par
+  169: t9697794\par
+    Accessing 't9697794.dcp' (file format 4) \par
+    Searching Invariant-set: 15800\par
+    Median probe intensity: 90 -> 89\par
+  170: t28942500\par
+    Accessing 't28942500.dcp' (file format 4) \par
+    Searching Invariant-set: 12771\par
+    Median probe intensity: 83 -> 88\par
+  171: t5328044\par
+    Accessing 't5328044.dcp' (file format 4) \par
+    Searching Invariant-set: 11714\par
+    Median probe intensity: 66 -> 89\par
+  172: t31912402\par
+    Accessing 't31912402.dcp' (file format 4) \par
+    Searching Invariant-set: 19149\par
+    Median probe intensity: 103 -> 89\par
+  173: t17396313\par
+    Accessing 't17396313.dcp' (file format 4) \par
+    Searching Invariant-set: 18881\par
+    Median probe intensity: 91 -> 88\par
+  174: t31053584\par
+    Accessing 't31053584.dcp' (file format 4) \par
+    Searching Invariant-set: 16647\par
+    Median probe intensity: 93 -> 88\par
+  175: t1851263\par
+    Accessing 't1851263.dcp' (file format 4) \par
+    Searching Invariant-set: 18725\par
+    Median probe intensity: 89 -> 89\par
+  176: t16777301\par
+    Accessing 't16777301.dcp' (file format 4) \par
+    Searching Invariant-set: 21560\par
+    Median probe intensity: 114 -> 89\par
+  177: t8711664\par
+    Accessing 't8711664.dcp' (file format 4) \par
+    Searching Invariant-set: 18115\par
+    Median probe intensity: 87 -> 88\par
+  178: t13754223\par
+    Accessing 't13754223.dcp' (file format 4) \par
+    Searching Invariant-set: 22741\par
+    Median probe intensity: 127 -> 88\par
+  179: t14227116\par
+    Accessing 't14227116.dcp' (file format 4) \par
+    Searching Invariant-set: 14682\par
+    Median probe intensity: 88 -> 87\par
+  180: t23191570\par
+    Accessing 't23191570.dcp' (file format 4) \par
+    Searching Invariant-set: 17417\par
+    Median probe intensity: 91 -> 88\par
+  181: t26860416\par
+    Accessing 't26860416.dcp' (file format 4) \par
+    Searching Invariant-set: 19657\par
+    Median probe intensity: 80 -> 88\par
+  182: t22185961\par
+    Accessing 't22185961.dcp' (file format 4) \par
+    Searching Invariant-set: 21346\par
+    Median probe intensity: 109 -> 89\par
+  183: t23185662\par
+    Accessing 't23185662.dcp' (file format 4) \par
+    Searching Invariant-set: 20066\par
+    Median probe intensity: 121 -> 89\par
+  184: t15551609\par
+    Accessing 't15551609.dcp' (file format 4) \par
+    Searching Invariant-set: 15167\par
+    Median probe intensity: 166 -> 90\par
+  185: t33872874\par
+    Accessing 't33872874.dcp' (file format 4) \par
+    Searching Invariant-set: 15989\par
+    Median probe intensity: 84 -> 89\par
+  186: t2656506\par
+    Accessing 't2656506.dcp' (file format 4) \par
+    Searching Invariant-set: 13643\par
+    Median probe intensity: 93 -> 88\par
+  187: t26367393\par
+    Accessing 't26367393.dcp' (file format 4) \par
+    Searching Invariant-set: 18979\par
+    Median probe intensity: 102 -> 89\par
+  188: t21508184\par
+    Accessing 't21508184.dcp' (file format 4) \par
+    Searching Invariant-set: 11056\par
+    Median probe intensity: 68 -> 89\par
+  189: t16696957\par
+    Accessing 't16696957.dcp' (file format 4) \par
+    Searching Invariant-set: 10787\par
+    Median probe intensity: 61 -> 87\par
+  190: t7336904\par
+    Accessing 't7336904.dcp' (file format 4) \par
+    Searching Invariant-set: 12972\par
+    Median probe intensity: 62 -> 88\par
+  191: t24300964\par
+    Accessing 't24300964.dcp' (file format 4) \par
+    Searching Invariant-set: 13252\par
+    Median probe intensity: 81 -> 88\par
+  192: t1575940\par
+    Accessing 't1575940.dcp' (file format 4) \par
+    Searching Invariant-set: 19447\par
+    Median probe intensity: 107 -> 89\par
+  193: t12493651\par
+    Accessing 't12493651.dcp' (file format 4) \par
+    Searching Invariant-set: 19362\par
+    Median probe intensity: 101 -> 89\par
+  194: t1649754\par
+    Accessing 't1649754.dcp' (file format 4) \par
+    Searching Invariant-set: 19375\par
+    Median probe intensity: 137 -> 89\par
+  195: t30278916\par
+    Accessing 't30278916.dcp' (file format 4) \par
+    Searching Invariant-set: 14407\par
+    Median probe intensity: 83 -> 88\par
+  196: t3284980\par
+    Accessing 't3284980.dcp' (file format 4) \par
+    Searching Invariant-set: 14312\par
+    Median probe intensity: 76 -> 89\par
+  197: t24943522\par
+    Accessing 't24943522.dcp' (file format 4) \par
+    Searching Invariant-set: 14434\par
+    Median probe intensity: 73 -> 89\par
+  198: t6312010\par
+    Accessing 't6312010.dcp' (file format 4) \par
+    Searching Invariant-set: 22356\par
+    Median probe intensity: 87 -> 88\par
+  199: t2063313\par
+    Accessing 't2063313.dcp' (file format 4) \par
+    Searching Invariant-set: 16437\par
+    Median probe intensity: 95 -> 89\par
+  200: t24311476\par
+    Accessing 't24311476.dcp' (file format 4) \par
+    Searching Invariant-set: 19168\par
+    Median probe intensity: 93 -> 89\par
+  201: t28142907\par
+    Accessing 't28142907.dcp' (file format 4) \par
+    Searching Invariant-set: 14507\par
+    Median probe intensity: 67 -> 89\par
+  202: t23377895\par
+    Accessing 't23377895.dcp' (file format 4) \par
+    Searching Invariant-set: 15461\par
+    Median probe intensity: 74 -> 90\par
+  203: t529847\par
+    Accessing 't529847.dcp' (file format 4) \par
+    Searching Invariant-set: 17401\par
+    Median probe intensity: 87 -> 89\par
+  204: t23478189\par
+    Accessing 't23478189.dcp' (file format 4) \par
+    Searching Invariant-set: 12357\par
+    Median probe intensity: 67 -> 90\par
+  205: t7527822\par
+    Accessing 't7527822.dcp' (file format 4) \par
+    Searching Invariant-set: 16813\par
+    Median probe intensity: 151 -> 89\par
+  206: t12219233\par
+    Accessing 't12219233.dcp' (file format 4) \par
+    Searching Invariant-set: 20427\par
+    Median probe intensity: 88 -> 89\par
+  207: t8280335\par
+    Accessing 't8280335.dcp' (file format 4) \par
+    Searching Invariant-set: 21066\par
+    Median probe intensity: 96 -> 88\par
+  208: t31251046\par
+    Accessing 't31251046.dcp' (file format 4) \par
+    Searching Invariant-set: 17291\par
+    Median probe intensity: 95 -> 88\par
+  209: t13423826\par
+    Accessing 't13423826.dcp' (file format 4) \par
+    Searching Invariant-set: 20193\par
+    Median probe intensity: 95 -> 88\par
+  210: t9225426\par
+    Accessing 't9225426.dcp' (file format 4) \par
+    Searching Invariant-set: 17650\par
+    Median probe intensity: 98 -> 88\par
+  211: t22607995\par
+    Accessing 't22607995.dcp' (file format 4) \par
+    Searching Invariant-set: 16540\par
+    Median probe intensity: 87 -> 88\par
+  212: t6813262\par
+    Accessing 't6813262.dcp' (file format 4) \par
+    Searching Invariant-set: 14751\par
+    Median probe intensity: 77 -> 88\par
+  213: t216950\par
+    Accessing 't216950.dcp' (file format 4) \par
+    Searching Invariant-set: 19587\par
+    Median probe intensity: 119 -> 90\par
+  214: t13622759\par
+    Accessing 't13622759.dcp' (file format 4) \par
+    Searching Invariant-set: 13542\par
+    Median probe intensity: 72 -> 89\par
+  215: t5929199\par
+    Accessing 't5929199.dcp' (file format 4) \par
+    Searching Invariant-set: 19067\par
+    Median probe intensity: 129 -> 89\par
+  216: t25790525\par
+    Accessing 't25790525.dcp' (file format 4) \par
+    Searching Invariant-set: 16524\par
+    Median probe intensity: 93 -> 88\par
+  217: t7460796\par
+    Accessing 't7460796.dcp' (file format 4) \par
+    Searching Invariant-set: 20289\par
+    Median probe intensity: 95 -> 90\par
+  218: t29086356\par
+    Accessing 't29086356.dcp' (file format 4) \par
+    Searching Invariant-set: 21302\par
+    Median probe intensity: 109 -> 89\par
+  219: t9212742\par
+    Accessing 't9212742.dcp' (file format 4) \par
+    Searching Invariant-set: 16486\par
+    Median probe intensity: 87 -> 88\par
+  220: t23399719\par
+    Accessing 't23399719.dcp' (file format 4) \par
+    Searching Invariant-set: 14750\par
+    Median probe intensity: 81 -> 87\par
+  221: t19311604\par
+    Accessing 't19311604.dcp' (file format 4) \par
+    Searching Invariant-set: 18127\par
+    Median probe intensity: 112 -> 88\par
+  222: t10359070\par
+    Accessing 't10359070.dcp' (file format 4) \par
+    Searching Invariant-set: 20356\par
+    Median probe intensity: 89 -> 89\par
+  223: t20140864\par
+    Accessing 't20140864.dcp' (file format 4) \par
+    Searching Invariant-set: 17649\par
+    Median probe intensity: 107 -> 89\par
+  224: t21577964\par
+    Accessing 't21577964.dcp' (file format 4) \par
+    Searching Invariant-set: 11519\par
+    Median probe intensity: 65 -> 88\par
+  225: t27758935\par
+    Accessing 't27758935.dcp' (file format 4) \par
+    Searching Invariant-set: 12004\par
+    Median probe intensity: 76 -> 88\par
+  226: t4307933\par
+    Accessing 't4307933.dcp' (file format 4) \par
+    Searching Invariant-set: 17762\par
+    Median probe intensity: 92 -> 89\par
+  227: t13413781\par
+    Accessing 't13413781.dcp' (file format 4) \par
+    Searching Invariant-set: 11152\par
+    Median probe intensity: 68 -> 89\par
+  228: t19454054\par
+    Accessing 't19454054.dcp' (file format 4) \par
+    Searching Invariant-set: 11592\par
+    Median probe intensity: 68 -> 89\par
+  229: t19804633\par
+    Accessing 't19804633.dcp' (file format 4) \par
+    Searching Invariant-set: 14489\par
+    Median probe intensity: 80 -> 89\par
+  230: t31059924\par
+    Accessing 't31059924.dcp' (file format 4) \par
+    Searching Invariant-set: 16394\par
+    Median probe intensity: 71 -> 90\par
+  231: t28852513\par
+    Accessing 't28852513.dcp' (file format 4) \par
+    Searching Invariant-set: 23720\par
+    Median probe intensity: 110 -> 89\par
+  232: t3110250\par
+    Accessing 't3110250.dcp' (file format 4) \par
+    Searching Invariant-set: 16112\par
+    Median probe intensity: 82 -> 88\par
+  233: t22820303\par
+    Accessing 't22820303.dcp' (file format 4) \par
+    Searching Invariant-set: 15772\par
+    Median probe intensity: 86 -> 88\par
+  234: t1920399\par
+    Accessing 't1920399.dcp' (file format 4) \par
+    Searching Invariant-set: 14955\par
+    Median probe intensity: 78 -> 89\par
+  235: t25202905\par
+    Accessing 't25202905.dcp' (file format 4) \par
+    Searching Invariant-set: 18580\par
+    Median probe intensity: 87 -> 88\par
+  236: t9082263\par
+    Accessing 't9082263.dcp' (file format 4) \par
+    Searching Invariant-set: 18554\par
+    Median probe intensity: 89 -> 89\par
+  237: t28187831\par
+    Accessing 't28187831.dcp' (file format 4) \par
+    Searching Invariant-set: 13242\par
+    Median probe intensity: 73 -> 89\par
+  238: t28615758\par
+    Accessing 't28615758.dcp' (file format 4) \par
+    Searching Invariant-set: 15474\par
+    Median probe intensity: 72 -> 88\par
+  239: t558364\par
+    Accessing 't558364.dcp' (file format 4) \par
+    Searching Invariant-set: 15888\par
+    Median probe intensity: 81 -> 89\par
+  240: t14370931\par
+    Accessing 't14370931.dcp' (file format 4) \par
+    Searching Invariant-set: 22523\par
+    Median probe intensity: 102 -> 89\par
+  241: t24893174\par
+    Accessing 't24893174.dcp' (file format 4) \par
+    Searching Invariant-set: 19684\par
+    Median probe intensity: 109 -> 89\par
+  242: t32988806\par
+    Accessing 't32988806.dcp' (file format 4) \par
+    Searching Invariant-set: 21265\par
+    Median probe intensity: 122 -> 89\par
+  243: t18949802\par
+    Accessing 't18949802.dcp' (file format 4) \par
+    Searching Invariant-set: 9454\par
+    Median probe intensity: 68 -> 88\par
+  244: t9958876\par
+    Accessing 't9958876.dcp' (file format 4) \par
+    Searching Invariant-set: 20361\par
+    Median probe intensity: 102 -> 89\par
+  245: t11479583\par
+    Accessing 't11479583.dcp' (file format 4) \par
+    Searching Invariant-set: 16401\par
+    Median probe intensity: 84 -> 88\par
+  246: t12668640\par
+    Accessing 't12668640.dcp' (file format 4) \par
+    Searching Invariant-set: 13374\par
+    Median probe intensity: 74 -> 89\par
+  247: t29940087\par
+    Accessing 't29940087.dcp' (file format 4) \par
+    Searching Invariant-set: 17551\par
+    Median probe intensity: 83 -> 89\par
+  248: t1398223\par
+    Accessing 't1398223.dcp' (file format 4) \par
+    Searching Invariant-set: 19698\par
+    Median probe intensity: 144 -> 88\par
+  249: t25234078\par
+    Accessing 't25234078.dcp' (file format 4) \par
+    Searching Invariant-set: 14666\par
+    Median probe intensity: 90 -> 88\par
+  250: t30672194\par
+    Accessing 't30672194.dcp' (file format 4) \par
+    Searching Invariant-set: 23864\par
+    Median probe intensity: 107 -> 89\par
+  251: t23482001\par
+    Accessing 't23482001.dcp' (file format 4) \par
+    Searching Invariant-set: 18536\par
+    Median probe intensity: 92 -> 89\par
+  252: t33641594\par
+    Accessing 't33641594.dcp' (file format 4) \par
+    Searching Invariant-set: 12861\par
+    Median probe intensity: 94 -> 88\par
+  253: t7099579\par
+    Accessing 't7099579.dcp' (file format 4) \par
+    Searching Invariant-set: 19013\par
+    Median probe intensity: 101 -> 88\par
+  254: t28879073\par
+    Accessing 't28879073.dcp' (file format 4) \par
+    Searching Invariant-set: 16354\par
+    Median probe intensity: 79 -> 89\par
+  255: t23280387\par
+    Accessing 't23280387.dcp' (file format 4) \par
+    Searching Invariant-set: 7106\par
+    Median probe intensity: 56 -> 87\par
+  256: t6351726\par
+    Accessing 't6351726.dcp' (file format 4) \par
+    Searching Invariant-set: 11126\par
+    Median probe intensity: 64 -> 88\par
+  257: t20763375\par
+    Accessing 't20763375.dcp' (file format 4) \par
+    Searching Invariant-set: 11994\par
+    Median probe intensity: 76 -> 89\par
+  258: t16431262\par
+    Accessing 't16431262.dcp' (file format 4) \par
+    Searching Invariant-set: 14819\par
+    Median probe intensity: 91 -> 88\par
+  259: t15938522\par
+    Accessing 't15938522.dcp' (file format 4) \par
+    Searching Invariant-set: 22473\par
+    Median probe intensity: 93 -> 89\par
+  260: t34452916\par
+    Accessing 't34452916.dcp' (file format 4) \par
+    Searching Invariant-set: 21150\par
+    Median probe intensity: 112 -> 89\par
+  261: t29264539\par
+    Accessing 't29264539.dcp' (file format 4) \par
+    Searching Invariant-set: 13130\par
+    Median probe intensity: 74 -> 89\par
+  262: t34885639\par
+    Accessing 't34885639.dcp' (file format 4) \par
+    Searching Invariant-set: 13844\par
+    Median probe intensity: 78 -> 89\par
+  263: t1656495\par
+    Accessing 't1656495.dcp' (file format 4) \par
+    Searching Invariant-set: 16323\par
+    Median probe intensity: 95 -> 88\par
+  264: t17496571\par
+    Accessing 't17496571.dcp' (file format 4) \par
+    Searching Invariant-set: 21336\par
+    Median probe intensity: 104 -> 88\par
+  265: t17586933\par
+    Accessing 't17586933.dcp' (file format 4) \par
+    Searching Invariant-set: 19320\par
+    Median probe intensity: 89 -> 88\par
+  266: t7499974\par
+    Accessing 't7499974.dcp' (file format 4) \par
+    Searching Invariant-set: 20262\par
+    Median probe intensity: 87 -> 88\par
+  267: t16360809\par
+    Accessing 't16360809.dcp' (file format 4) \par
+    Searching Invariant-set: 15566\par
+    Median probe intensity: 86 -> 89\par
+  268: t25736571\par
+    Accessing 't25736571.dcp' (file format 4) \par
+    Searching Invariant-set: 16550\par
+    Median probe intensity: 86 -> 89\par
+  269: t20720340\par
+    Accessing 't20720340.dcp' (file format 4) \par
+    Searching Invariant-set: 16310\par
+    Median probe intensity: 100 -> 88\par
+  270: t12746503\par
+    Accessing 't12746503.dcp' (file format 4) \par
+    Searching Invariant-set: 12782\par
+    Median probe intensity: 76 -> 88\par
+  271: t33277522\par
+    Accessing 't33277522.dcp' (file format 4) \par
+    Searching Invariant-set: 18422\par
+    Median probe intensity: 107 -> 89\par
+  272: t9901664\par
+    Accessing 't9901664.dcp' (file format 4) \par
+    Searching Invariant-set: 12754\par
+    Median probe intensity: 87 -> 88\par
+  273: t16740868\par
+    Accessing 't16740868.dcp' (file format 4) \par
+    Searching Invariant-set: 20075\par
+    Median probe intensity: 100 -> 88\par
+  274: t30593895\par
+    Accessing 't30593895.dcp' (file format 4) \par
+    Searching Invariant-set: 18503\par
+    Median probe intensity: 134 -> 88\par
+  275: t11111799\par
+    Accessing 't11111799.dcp' (file format 4) \par
+    Searching Invariant-set: 13700\par
+    Median probe intensity: 78 -> 88\par
+  276: t6061608\par
+    Accessing 't6061608.dcp' (file format 4) \par
+    Searching Invariant-set: 19134\par
+    Median probe intensity: 99 -> 88\par
+  277: t23853763\par
+    Accessing 't23853763.dcp' (file format 4) \par
+    Searching Invariant-set: 19175\par
+    Median probe intensity: 107 -> 88\par
+  278: t3759201\par
+    Accessing 't3759201.dcp' (file format 4) \par
+    Searching Invariant-set: 16658\par
+    Median probe intensity: 92 -> 88\par
+  279: t31373037\par
+    Accessing 't31373037.dcp' (file format 4) \par
+    Searching Invariant-set: 15504\par
+    Median probe intensity: 81 -> 89\par
+  280: t7136461\par
+    Accessing 't7136461.dcp' (file format 4) \par
+    Searching Invariant-set: 16585\par
+    Median probe intensity: 93 -> 88\par
+  281: t3824246\par
+    Accessing 't3824246.dcp' (file format 4) \par
+    Searching Invariant-set: 14640\par
+    Median probe intensity: 90 -> 88\par
+  282: t21867245\par
+    Accessing 't21867245.dcp' (file format 4) \par
+    Searching Invariant-set: 19088\par
+    Median probe intensity: 89 -> 89\par
+  283: t26202907\par
+    Accessing 't26202907.dcp' (file format 4) \par
+    Searching Invariant-set: 20204\par
+    Median probe intensity: 94 -> 89\par
+\par
+  Calculating background...\par
+\par
+\cf1 Finished in 00 hours 19 minutes 45 seconds\}\par
+\par
+\{Model-based expression\par
+\par
+\cf2   Obtain expression/signal values using 'Model-based expression' method and 'Mismatch probe (PM/MM difference)' as background\par
+    Probe set 54675\par
+  Saving expression values into dChip(DCP) files...\par
+    Accessing 't7061623.dcp' (file format 4) \par
+    Accessing 't32937784.dcp' (file format 4) \par
+    Accessing 't18368456.dcp' (file format 4) \par
+    Accessing 't13213595.dcp' (file format 4) \par
+    Accessing 't3554510.dcp' (file format 4) \par
+    Accessing 't32827992.dcp' (file format 4) \par
+    Accessing 't12485562.dcp' (file format 4) \par
+    Accessing 't17593495.dcp' (file format 4) \par
+    Accessing 't6243678.dcp' (file format 4) \par
+    Accessing 't28175962.dcp' (file format 4) \par
+    Accessing 't18509360.dcp' (file format 4) \par
+    Accessing 't20710123.dcp' (file format 4) \par
+    Accessing 't21659093.dcp' (file format 4) \par
+    Accessing 't12881564.dcp' (file format 4) \par
+    Accessing 't34198779.dcp' (file format 4) \par
+    Accessing 't13856354.dcp' (file format 4) \par
+    Accessing 't12149903.dcp' (file format 4) \par
+    Accessing 't31980419.dcp' (file format 4) \par
+    Accessing 't2113833.dcp' (file format 4) \par
+    Accessing 't17169324.dcp' (file format 4) \par
+    Accessing 't12449908.dcp' (file format 4) \par
+    Accessing 't15501307.dcp' (file format 4) \par
+    Accessing 't11498346.dcp' (file format 4) \par
+    Accessing 't29544461.dcp' (file format 4) \par
+    Accessing 't3217508.dcp' (file format 4) \par
+    Accessing 't27890110.dcp' (file format 4) \par
+    Accessing 't1129691.dcp' (file format 4) \par
+    Accessing 't33433141.dcp' (file format 4) \par
+    Accessing 't322025.dcp' (file format 4) \par
+    Accessing 't21347674.dcp' (file format 4) \par
+    Accessing 't15111525.dcp' (file format 4) \par
+    Accessing 't28856947.dcp' (file format 4) \par
+    Accessing 't32627779.dcp' (file format 4) \par
+    Accessing 't10999830.dcp' (file format 4) \par
+    Accessing 't23355260.dcp' (file format 4) \par
+    Accessing 't16934338.dcp' (file format 4) \par
+    Accessing 't20628135.dcp' (file format 4) \par
+    Accessing 't34247523.dcp' (file format 4) \par
+    Accessing 't14841022.dcp' (file format 4) \par
+    Accessing 't27298010.dcp' (file format 4) \par
+    Accessing 't13513185.dcp' (file format 4) \par
+    Accessing 't22528008.dcp' (file format 4) \par
+    Accessing 't6495589.dcp' (file format 4) \par
+    Accessing 't5045596.dcp' (file format 4) \par
+    Accessing 't34814188.dcp' (file format 4) \par
+    Accessing 't30240283.dcp' (file format 4) \par
+    Accessing 't12459034.dcp' (file format 4) \par
+    Accessing 't17044501.dcp' (file format 4) \par
+    Accessing 't10899813.dcp' (file format 4) \par
+    Accessing 't8209678.dcp' (file format 4) \par
+    Accessing 't31016255.dcp' (file format 4) \par
+    Accessing 't2273448.dcp' (file format 4) \par
+    Accessing 't22676948.dcp' (file format 4) \par
+    Accessing 't6861920.dcp' (file format 4) \par
+    Accessing 't24021044.dcp' (file format 4) \par
+    Accessing 't32091878.dcp' (file format 4) \par
+    Accessing 't20874672.dcp' (file format 4) \par
+    Accessing 't4928077.dcp' (file format 4) \par
+    Accessing 't33813446.dcp' (file format 4) \par
+    Accessing 't1864862.dcp' (file format 4) \par
+    Accessing 't33497885.dcp' (file format 4) \par
+    Accessing 't23882491.dcp' (file format 4) \par
+    Accessing 't7810132.dcp' (file format 4) \par
+    Accessing 't31148387.dcp' (file format 4) \par
+    Accessing 't11368632.dcp' (file format 4) \par
+    Accessing 't30445722.dcp' (file format 4) \par
+    Accessing 't15998199.dcp' (file format 4) \par
+    Accessing 't34140785.dcp' (file format 4) \par
+    Accessing 't4946631.dcp' (file format 4) \par
+    Accessing 't24555420.dcp' (file format 4) \par
+    Accessing 't6046446.dcp' (file format 4) \par
+    Accessing 't17425093.dcp' (file format 4) \par
+    Accessing 't28844466.dcp' (file format 4) \par
+    Accessing 't3681631.dcp' (file format 4) \par
+    Accessing 't26530147.dcp' (file format 4) \par
+    Accessing 't13176886.dcp' (file format 4) \par
+    Accessing 't11108725.dcp' (file format 4) \par
+    Accessing 't27905841.dcp' (file format 4) \par
+    Accessing 't30375767.dcp' (file format 4) \par
+    Accessing 't25371294.dcp' (file format 4) \par
+    Accessing 't18626919.dcp' (file format 4) \par
+    Accessing 't9502935.dcp' (file format 4) \par
+    Accessing 't31112623.dcp' (file format 4) \par
+    Accessing 't9278634.dcp' (file format 4) \par
+    Accessing 't2093819.dcp' (file format 4) \par
+    Accessing 't20162559.dcp' (file format 4) \par
+    Accessing 't30441930.dcp' (file format 4) \par
+    Accessing 't25638791.dcp' (file format 4) \par
+    Accessing 't13240848.dcp' (file format 4) \par
+    Accessing 't5742927.dcp' (file format 4) \par
+    Accessing 't706802.dcp' (file format 4) \par
+    Accessing 't405811.dcp' (file format 4) \par
+    Accessing 't17141399.dcp' (file format 4) \par
+    Accessing 't4974440.dcp' (file format 4) \par
+    Accessing 't14390447.dcp' (file format 4) \par
+    Accessing 't19099249.dcp' (file format 4) \par
+    Accessing 't15956680.dcp' (file format 4) \par
+    Accessing 't13408525.dcp' (file format 4) \par
+    Accessing 't13353751.dcp' (file format 4) \par
+    Accessing 't31692864.dcp' (file format 4) \par
+    Accessing 't3264843.dcp' (file format 4) \par
+    Accessing 't3590823.dcp' (file format 4) \par
+    Accessing 't34005842.dcp' (file format 4) \par
+    Accessing 't33087548.dcp' (file format 4) \par
+    Accessing 't32966393.dcp' (file format 4) \par
+    Accessing 't29918401.dcp' (file format 4) \par
+    Accessing 't9460526.dcp' (file format 4) \par
+    Accessing 't4158220.dcp' (file format 4) \par
+    Accessing 't12159423.dcp' (file format 4) \par
+    Accessing 't14145501.dcp' (file format 4) \par
+    Accessing 't18407476.dcp' (file format 4) \par
+    Accessing 't17231406.dcp' (file format 4) \par
+    Accessing 't16745279.dcp' (file format 4) \par
+    Accessing 't6123779.dcp' (file format 4) \par
+    Accessing 't26304171.dcp' (file format 4) \par
+    Accessing 't26626488.dcp' (file format 4) \par
+    Accessing 't18049489.dcp' (file format 4) \par
+    Accessing 't22071617.dcp' (file format 4) \par
+    Accessing 't30080215.dcp' (file format 4) \par
+    Accessing 't14894550.dcp' (file format 4) \par
+    Accessing 't34324077.dcp' (file format 4) \par
+    Accessing 't33131957.dcp' (file format 4) \par
+    Accessing 't27442345.dcp' (file format 4) \par
+    Accessing 't28973126.dcp' (file format 4) \par
+    Accessing 't14645143.dcp' (file format 4) \par
+    Accessing 't14255361.dcp' (file format 4) \par
+    Accessing 't29129761.dcp' (file format 4) \par
+    Accessing 't19172044.dcp' (file format 4) \par
+    Accessing 't6869106.dcp' (file format 4) \par
+    Accessing 't1570938.dcp' (file format 4) \par
+    Accessing 't18842771.dcp' (file format 4) \par
+    Accessing 't550856.dcp' (file format 4) \par
+    Accessing 't26119636.dcp' (file format 4) \par
+    Accessing 't9341953.dcp' (file format 4) \par
+    Accessing 't24768712.dcp' (file format 4) \par
+    Accessing 't11131833.dcp' (file format 4) \par
+    Accessing 't5967676.dcp' (file format 4) \par
+    Accessing 't13500597.dcp' (file format 4) \par
+    Accessing 't26410792.dcp' (file format 4) \par
+    Accessing 't15608854.dcp' (file format 4) \par
+    Accessing 't25531442.dcp' (file format 4) \par
+    Accessing 't14444664.dcp' (file format 4) \par
+    Accessing 't2697760.dcp' (file format 4) \par
+    Accessing 't15009090.dcp' (file format 4) \par
+    Accessing 't31113955.dcp' (file format 4) \par
+    Accessing 't19696475.dcp' (file format 4) \par
+    Accessing 't27763617.dcp' (file format 4) \par
+    Accessing 't33597750.dcp' (file format 4) \par
+    Accessing 't2763192.dcp' (file format 4) \par
+    Accessing 't12954666.dcp' (file format 4) \par
+    Accessing 't3756012.dcp' (file format 4) \par
+    Accessing 't21937568.dcp' (file format 4) \par
+    Accessing 't20829799.dcp' (file format 4) \par
+    Accessing 't5915302.dcp' (file format 4) \par
+    Accessing 't3142393.dcp' (file format 4) \par
+    Accessing 't7067012.dcp' (file format 4) \par
+    Accessing 't18902355.dcp' (file format 4) \par
+    Accessing 't31619090.dcp' (file format 4) \par
+    Accessing 't30468874.dcp' (file format 4) \par
+    Accessing 't2618609.dcp' (file format 4) \par
+    Accessing 't18479900.dcp' (file format 4) \par
+    Accessing 't30634929.dcp' (file format 4) \par
+    Accessing 't27335382.dcp' (file format 4) \par
+    Accessing 't7220249.dcp' (file format 4) \par
+    Accessing 't3170355.dcp' (file format 4) \par
+    Accessing 't26545639.dcp' (file format 4) \par
+    Accessing 't11479623.dcp' (file format 4) \par
+    Accessing 't27405906.dcp' (file format 4) \par
+    Accessing 't9697794.dcp' (file format 4) \par
+    Accessing 't28942500.dcp' (file format 4) \par
+    Accessing 't5328044.dcp' (file format 4) \par
+    Accessing 't31912402.dcp' (file format 4) \par
+    Accessing 't17396313.dcp' (file format 4) \par
+    Accessing 't31053584.dcp' (file format 4) \par
+    Accessing 't1851263.dcp' (file format 4) \par
+    Accessing 't16777301.dcp' (file format 4) \par
+    Accessing 't8711664.dcp' (file format 4) \par
+    Accessing 't13754223.dcp' (file format 4) \par
+    Accessing 't14227116.dcp' (file format 4) \par
+    Accessing 't23191570.dcp' (file format 4) \par
+    Accessing 't26860416.dcp' (file format 4) \par
+    Accessing 't22185961.dcp' (file format 4) \par
+    Accessing 't23185662.dcp' (file format 4) \par
+    Accessing 't15551609.dcp' (file format 4) \par
+    Accessing 't33872874.dcp' (file format 4) \par
+    Accessing 't2656506.dcp' (file format 4) \par
+    Accessing 't26367393.dcp' (file format 4) \par
+    Accessing 't21508184.dcp' (file format 4) \par
+    Accessing 't16696957.dcp' (file format 4) \par
+    Accessing 't7336904.dcp' (file format 4) \par
+    Accessing 't24300964.dcp' (file format 4) \par
+    Accessing 't1575940.dcp' (file format 4) \par
+    Accessing 't12493651.dcp' (file format 4) \par
+    Accessing 't1649754.dcp' (file format 4) \par
+    Accessing 't30278916.dcp' (file format 4) \par
+    Accessing 't3284980.dcp' (file format 4) \par
+    Accessing 't24943522.dcp' (file format 4) \par
+    Accessing 't6312010.dcp' (file format 4) \par
+    Accessing 't2063313.dcp' (file format 4) \par
+    Accessing 't24311476.dcp' (file format 4) \par
+    Accessing 't28142907.dcp' (file format 4) \par
+    Accessing 't23377895.dcp' (file format 4) \par
+    Accessing 't529847.dcp' (file format 4) \par
+    Accessing 't23478189.dcp' (file format 4) \par
+    Accessing 't7527822.dcp' (file format 4) \par
+    Accessing 't12219233.dcp' (file format 4) \par
+    Accessing 't8280335.dcp' (file format 4) \par
+    Accessing 't31251046.dcp' (file format 4) \par
+    Accessing 't13423826.dcp' (file format 4) \par
+    Accessing 't9225426.dcp' (file format 4) \par
+    Accessing 't22607995.dcp' (file format 4) \par
+    Accessing 't6813262.dcp' (file format 4) \par
+    Accessing 't216950.dcp' (file format 4) \par
+    Accessing 't13622759.dcp' (file format 4) \par
+    Accessing 't5929199.dcp' (file format 4) \par
+    Accessing 't25790525.dcp' (file format 4) \par
+    Accessing 't7460796.dcp' (file format 4) \par
+    Accessing 't29086356.dcp' (file format 4) \par
+    Accessing 't9212742.dcp' (file format 4) \par
+    Accessing 't23399719.dcp' (file format 4) \par
+    Accessing 't19311604.dcp' (file format 4) \par
+    Accessing 't10359070.dcp' (file format 4) \par
+    Accessing 't20140864.dcp' (file format 4) \par
+    Accessing 't21577964.dcp' (file format 4) \par
+    Accessing 't27758935.dcp' (file format 4) \par
+    Accessing 't4307933.dcp' (file format 4) \par
+    Accessing 't13413781.dcp' (file format 4) \par
+    Accessing 't19454054.dcp' (file format 4) \par
+    Accessing 't19804633.dcp' (file format 4) \par
+    Accessing 't31059924.dcp' (file format 4) \par
+    Accessing 't28852513.dcp' (file format 4) \par
+    Accessing 't3110250.dcp' (file format 4) \par
+    Accessing 't22820303.dcp' (file format 4) \par
+    Accessing 't1920399.dcp' (file format 4) \par
+    Accessing 't25202905.dcp' (file format 4) \par
+    Accessing 't9082263.dcp' (file format 4) \par
+    Accessing 't28187831.dcp' (file format 4) \par
+    Accessing 't28615758.dcp' (file format 4) \par
+    Accessing 't558364.dcp' (file format 4) \par
+    Accessing 't14370931.dcp' (file format 4) \par
+    Accessing 't24893174.dcp' (file format 4) \par
+    Accessing 't32988806.dcp' (file format 4) \par
+    Accessing 't18949802.dcp' (file format 4) \par
+    Accessing 't9958876.dcp' (file format 4) \par
+    Accessing 't11479583.dcp' (file format 4) \par
+    Accessing 't12668640.dcp' (file format 4) \par
+    Accessing 't29940087.dcp' (file format 4) \par
+    Accessing 't1398223.dcp' (file format 4) \par
+    Accessing 't25234078.dcp' (file format 4) \par
+    Accessing 't30672194.dcp' (file format 4) \par
+    Accessing 't23482001.dcp' (file format 4) \par
+    Accessing 't33641594.dcp' (file format 4) \par
+    Accessing 't7099579.dcp' (file format 4) \par
+    Accessing 't28879073.dcp' (file format 4) \par
+    Accessing 't23280387.dcp' (file format 4) \par
+    Accessing 't6351726.dcp' (file format 4) \par
+    Accessing 't20763375.dcp' (file format 4) \par
+    Accessing 't16431262.dcp' (file format 4) \par
+    Accessing 't15938522.dcp' (file format 4) \par
+    Accessing 't34452916.dcp' (file format 4) \par
+    Accessing 't29264539.dcp' (file format 4) \par
+    Accessing 't34885639.dcp' (file format 4) \par
+    Accessing 't1656495.dcp' (file format 4) \par
+    Accessing 't17496571.dcp' (file format 4) \par
+    Accessing 't17586933.dcp' (file format 4) \par
+    Accessing 't7499974.dcp' (file format 4) \par
+    Accessing 't16360809.dcp' (file format 4) \par
+    Accessing 't25736571.dcp' (file format 4) \par
+    Accessing 't20720340.dcp' (file format 4) \par
+    Accessing 't12746503.dcp' (file format 4) \par
+    Accessing 't33277522.dcp' (file format 4) \par
+    Accessing 't9901664.dcp' (file format 4) \par
+    Accessing 't16740868.dcp' (file format 4) \par
+    Accessing 't30593895.dcp' (file format 4) \par
+    Accessing 't11111799.dcp' (file format 4) \par
+    Accessing 't6061608.dcp' (file format 4) \par
+    Accessing 't23853763.dcp' (file format 4) \par
+    Accessing 't3759201.dcp' (file format 4) \par
+    Accessing 't31373037.dcp' (file format 4) \par
+    Accessing 't7136461.dcp' (file format 4) \par
+    Accessing 't3824246.dcp' (file format 4) \par
+    Accessing 't21867245.dcp' (file format 4) \par
+    Accessing 't26202907.dcp' (file format 4) \par
+\par
+  Writing array summary file 'C:\\Users\\chuentan\\Documents\\Archive\\data\\csv\\microarrayIDALL.168.batch3\\microarrayIDALL.168.batch3_array_summary.xls'\par
+\par
+  You may now check CEL images for quality information\par
+\par
+\cf1 Finished in 00 hours 27 minutes 00 seconds\}\par
+\par
+\cf2\{Export expression values\par
+\par
+  Writing expression or call data in C:\\Users\\chuentan\\Documents\\Archive\\data\\csv\\microarrayIDALL.168.batch3\\microarrayIDALL.168.batch3 expression.xls...\par
+    Probe set 54675\par
+\par
+Finished\}\par
+\par
+\cf0\par
+}
+ 

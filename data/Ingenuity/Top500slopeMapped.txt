@@ -1,0 +1,466 @@
+© 2000-2010 Ingenuity Systems, Inc. All rights reserved.
+
+ID	Notes	Symbol	Entrez Gene Name	Location	Type(s)	Drug(s)
+218739_at		ABHD5	abhydrolase domain containing 5	Cytoplasm	enzyme	
+223615_at		ABI3	ABI family, member 3	Plasma Membrane	other	
+228264_at		ACCS	1-aminocyclopropane-1-carboxylate synthase homolog (Arabidopsis)(non-functional)	unknown	enzyme	
+238825_at		ACRC	acidic repeat containing	unknown	other	
+213198_at		ACVR1B	activin A receptor, type IB	Plasma Membrane	kinase	
+213532_at		ADAM17	ADAM metallopeptidase domain 17	Plasma Membrane	peptidase	
+221850_x_at		AGAP4	ArfGAP with GTPase domain, ankyrin repeat and PH domain 4	unknown	other	
+1555736_a_at	D	AGTRAP	angiotensin II receptor-associated protein	Plasma Membrane	G-protein coupled receptor	
+225059_at	D	AGTRAP	angiotensin II receptor-associated protein	Plasma Membrane	G-protein coupled receptor	
+238135_at	D	AGTRAP	angiotensin II receptor-associated protein	Plasma Membrane	G-protein coupled receptor	
+206513_at		AIM2	absent in melanoma 2	Cytoplasm	other	
+210962_s_at		AKAP9	A kinase (PRKA) anchor protein (yotiao) 9	Cytoplasm	other	
+223145_s_at	D	AKIRIN2	akirin 2	unknown	other	
+223143_s_at	D	AKIRIN2	akirin 2	unknown	other	
+208773_s_at		ANKHD1	ankyrin repeat and KH domain containing 1	Nucleus	transcription regulator	
+223542_at		ANKRD32	ankyrin repeat domain 32	Nucleus	transcription regulator	
+220112_at		ANKRD55	ankyrin repeat domain 55	Nucleus	transcription regulator	
+202888_s_at		ANPEP	alanyl (membrane) aminopeptidase	Plasma Membrane	peptidase	
+203300_x_at	D	AP1S2	adaptor-related protein complex 1, sigma 2 subunit	Cytoplasm	transporter	
+230264_s_at	D	AP1S2	adaptor-related protein complex 1, sigma 2 subunit	Cytoplasm	transporter	
+218230_at		ARFIP1	ADP-ribosylation factor interacting protein 1	Cytoplasm	other	
+226906_s_at		ARHGAP9	Rho GTPase activating protein 9	unknown	other	
+221656_s_at		ARHGEF10L	Rho guanine nucleotide exchange factor (GEF) 10-like	Cytoplasm	enzyme	
+215716_s_at	D	ATP2B1	ATPase, Ca++ transporting, plasma membrane 1	Plasma Membrane	transporter	
+212930_at	D	ATP2B1	ATPase, Ca++ transporting, plasma membrane 1	Plasma Membrane	transporter	
+212041_at		ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1	Cytoplasm	transporter	
+242230_at		ATXN1	ataxin 1	Nucleus	other	
+235240_at		ATXN3	ataxin 3	Nucleus	other	
+1553959_a_at		B3GALT6	UDP-Gal:betaGal beta 1,3-galactosyltransferase polypeptide 6	Cytoplasm	enzyme	
+219326_s_at	D	B3GNT2	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2	Cytoplasm	enzyme	
+222870_s_at	D	B3GNT2	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2	Cytoplasm	enzyme	
+221485_at		B4GALT5	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 5	Cytoplasm	enzyme	
+202391_at		BASP1	brain abundant, membrane attached signal protein 1	Plasma Membrane	other	
+214201_x_at		BAT2	HLA-B associated transcript 2	Cytoplasm	other	
+205965_at		BATF	basic leucine zipper transcription factor, ATF-like	Nucleus	transcription regulator	
+205681_at		BCL2A1	BCL2-related protein A1	Cytoplasm	other	
+228758_at	D	BCL6	B-cell CLL/lymphoma 6	Nucleus	transcription regulator	
+203140_at	D	BCL6	B-cell CLL/lymphoma 6	Nucleus	transcription regulator	
+201084_s_at		BCLAF1	BCL2-associated transcription factor 1	Nucleus	transcription regulator	
+205715_at		BST1	bone marrow stromal cell antigen 1	Plasma Membrane	enzyme	
+228570_at		BTBD11	BTB (POZ) domain containing 11	Nucleus	transcription regulator	
+222464_s_at		C10ORF119	chromosome 10 open reading frame 119	Nucleus	other	
+215087_at		C15ORF39	chromosome 15 open reading frame 39	unknown	other	
+218060_s_at		C16ORF57	chromosome 16 open reading frame 57	unknown	other	
+205781_at		C16ORF7	chromosome 16 open reading frame 7	unknown	transporter	
+228373_at	D	C16ORF72	chromosome 16 open reading frame 72	unknown	other	
+1568954_s_at	D	C16ORF72	chromosome 16 open reading frame 72	unknown	other	
+225183_at	D	C16ORF72	chromosome 16 open reading frame 72	unknown	other	
+226657_at		C17ORF103	chromosome 17 open reading frame 103	unknown	other	
+213195_at		C17ORF108	chromosome 17 open reading frame 108	unknown	other	
+235568_at		C19ORF59	chromosome 19 open reading frame 59	unknown	other	
+220941_s_at		C21ORF91	chromosome 21 open reading frame 91	unknown	other	
+1559051_s_at		C6ORF150	chromosome 6 open reading frame 150	unknown	other	
+224478_s_at		C7ORF50	chromosome 7 open reading frame 50	unknown	other	
+229913_at		C7ORF61	chromosome 7 open reading frame 61	unknown	other	
+224311_s_at		CAB39	calcium binding protein 39	Cytoplasm	other	
+219714_s_at		CACNA2D3	calcium channel, voltage-dependent, alpha 2/delta subunit 3	Plasma Membrane	ion channel	pregabalin
+228555_at		CAMK2D	calcium/calmodulin-dependent protein kinase II delta	Cytoplasm	kinase	
+224414_s_at		CARD6	caspase recruitment domain family, member 6	Cytoplasm	other	
+224946_s_at		CCDC115	coiled-coil domain containing 115	Cytoplasm	other	
+222432_s_at		CCDC47	coiled-coil domain containing 47	Extracellular Space	other	
+224647_at		CCNY	cyclin Y	Nucleus	other	
+219669_at		CD177	CD177 molecule	Cytoplasm	other	
+205987_at		CD1C	CD1c molecule	Plasma Membrane	other	
+223834_at		CD274	CD274 molecule	Plasma Membrane	other	
+209287_s_at	D	CDC42EP3	CDC42 effector protein (Rho GTPase binding) 3	Cytoplasm	other	
+209286_at	D	CDC42EP3	CDC42 effector protein (Rho GTPase binding) 3	Cytoplasm	other	
+220935_s_at	D	CDK5RAP2	CDK5 regulatory subunit associated protein 2	Cytoplasm	other	
+233540_s_at	D	CDK5RAP2	CDK5 regulatory subunit associated protein 2	Cytoplasm	other	
+212864_at	D	CDS2	CDP-diacylglycerol synthase (phosphatidate cytidylyltransferase) 2	Cytoplasm	enzyme	
+212862_at	D	CDS2	CDP-diacylglycerol synthase (phosphatidate cytidylyltransferase) 2	Cytoplasm	enzyme	
+219886_at		CEP97	centrosomal protein 97kDa	unknown	other	
+207209_at		CETN1	centrin, EF-hand protein, 1	Nucleus	enzyme	
+219492_at		CHIC2	cysteine-rich hydrophobic domain 2	Plasma Membrane	other	
+230364_at	D	CHPT1	choline phosphotransferase 1	unknown	enzyme	
+221675_s_at	D	CHPT1	choline phosphotransferase 1	unknown	enzyme	
+201953_at		CIB1	calcium and integrin binding 1 (calmyrin)	Nucleus	other	
+200810_s_at	D	CIRBP	cold inducible RNA binding protein	Nucleus	other	
+228519_x_at	D	CIRBP	cold inducible RNA binding protein	Nucleus	other	
+230142_s_at	D	CIRBP	cold inducible RNA binding protein	Nucleus	other	
+200811_at	D	CIRBP	cold inducible RNA binding protein	Nucleus	other	
+223451_s_at		CKLF	chemokine-like factor	Extracellular Space	cytokine	
+202140_s_at		CLK3	CDC-like kinase 3	Nucleus	kinase	
+228437_at	D	CNIH4	cornichon homolog 4 (Drosophila)	Plasma Membrane	other	
+218728_s_at	D	CNIH4	cornichon homolog 4 (Drosophila)	Plasma Membrane	other	
+223993_s_at	D	CNIH4	cornichon homolog 4 (Drosophila)	Plasma Membrane	other	
+227119_at		CNOT6L	CCR4-NOT transcription complex, subunit 6-like	Cytoplasm	other	
+202162_s_at		CNOT8	CCR4-NOT transcription complex, subunit 8	Nucleus	transcription regulator	
+201942_s_at	D	CPD	carboxypeptidase D	Extracellular Space	peptidase	
+201940_at	D	CPD	carboxypeptidase D	Extracellular Space	peptidase	
+201941_at	D	CPD	carboxypeptidase D	Extracellular Space	peptidase	
+206244_at	D	CR1	complement component (3b/4b) receptor 1 (Knops blood group)	Plasma Membrane	other	
+217552_x_at	D	CR1	complement component (3b/4b) receptor 1 (Knops blood group)	Plasma Membrane	other	
+208488_s_at	D	CR1	complement component (3b/4b) receptor 1 (Knops blood group)	Plasma Membrane	other	
+229228_at		CREB5	cAMP responsive element binding protein 5	Nucleus	transcription regulator	
+207945_s_at		CSNK1D	casein kinase 1, delta	Cytoplasm	kinase	
+210140_at		CST7	cystatin F (leukocystatin)	Extracellular Space	other	
+208407_s_at		CTNND1	catenin (cadherin-associated protein), delta 1	Nucleus	other	
+203758_at		CTSO	cathepsin O	Cytoplasm	peptidase	
+214743_at		CUX1	cut-like homeobox 1	Nucleus	transcription regulator	
+227133_at		CXORF39	chromosome X open reading frame 39	unknown	other	
+209163_at		CYB561	cytochrome b-561	Cytoplasm	enzyme	
+206539_s_at		CYP4F12	cytochrome P450, family 4, subfamily F, polypeptide 12	Cytoplasm	enzyme	
+201886_at		DCAF11	DDB1 and CUL4 associated factor 11	unknown	other	
+202262_x_at	D	DDAH2	dimethylarginine dimethylaminohydrolase 2	unknown	enzyme	
+214909_s_at	D	DDAH2	dimethylarginine dimethylaminohydrolase 2	unknown	enzyme	
+215537_x_at	D	DDAH2	dimethylarginine dimethylaminohydrolase 2	unknown	enzyme	
+224612_s_at	D	DNAJC5	DnaJ (Hsp40) homolog, subfamily C, member 5	Plasma Membrane	other	
+224613_s_at	D	DNAJC5	DnaJ (Hsp40) homolog, subfamily C, member 5	Plasma Membrane	other	
+232843_s_at		DOCK8	dedicator of cytokinesis 8	unknown	other	
+218627_at		DRAM1	DNA-damage regulated autophagy modulator 1	unknown	other	
+218660_at		DYSF	dysferlin, limb girdle muscular dystrophy 2B (autosomal recessive)	Plasma Membrane	other	
+225656_at		EFHC1	EF-hand domain (C-terminal) containing 1	Cytoplasm	other	
+224314_s_at	D	EGLN1	egl nine homolog 1 (C. elegans)	Cytoplasm	enzyme	
+221497_x_at	D	EGLN1	egl nine homolog 1 (C. elegans)	Cytoplasm	enzyme	
+224935_at		EIF2S3	eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa	Cytoplasm	translation regulator	
+225939_at	D	EIF4E3	eukaryotic translation initiation factor 4E family member 3	Cytoplasm	translation regulator	
+225940_at	D	EIF4E3	eukaryotic translation initiation factor 4E family member 3	Cytoplasm	translation regulator	
+225941_at	D	EIF4E3	eukaryotic translation initiation factor 4E family member 3	Cytoplasm	translation regulator	
+238461_at	D	EIF4E3	eukaryotic translation initiation factor 4E family member 3	Cytoplasm	translation regulator	
+200878_at		EPAS1	endothelial PAS domain protein 1	Nucleus	transcription regulator	
+212681_at	D	EPB41L3	erythrocyte membrane protein band 4.1-like 3	Plasma Membrane	other	
+211776_s_at	D	EPB41L3	erythrocyte membrane protein band 4.1-like 3	Plasma Membrane	other	
+206710_s_at	D	EPB41L3	erythrocyte membrane protein band 4.1-like 3	Plasma Membrane	other	
+201328_at		ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)	Nucleus	transcription regulator	
+212630_at		EXOC3	exocyst complex component 3	Plasma Membrane	transporter	
+1554178_a_at	D	FAM126B	family with sequence similarity 126, member B	unknown	other	
+1558959_at	D	FAM126B	family with sequence similarity 126, member B	unknown	other	
+229460_at	D	FAM126B	family with sequence similarity 126, member B	unknown	other	
+231874_at	D	FAM126B	family with sequence similarity 126, member B	unknown	other	
+226155_at		FAM160B1	family with sequence similarity 160, member B1	unknown	other	
+215487_x_at		FAM182B	family with sequence similarity 182, member B	unknown	other	
+1558014_s_at		FAR1	fatty acyl CoA reductase 1	Cytoplasm	enzyme	
+220127_s_at		FBXL12	F-box and leucine-rich repeat protein 12	Cytoplasm	other	
+209005_at		FBXL5	F-box and leucine-rich repeat protein 5	Cytoplasm	enzyme	
+218539_at		FBXO34	F-box protein 34	unknown	other	
+223263_s_at		FGFR1OP2	FGFR1 oncogene partner 2	Cytoplasm	other	
+229521_at		FLJ36031	hypothetical protein FLJ36031	unknown	other	
+227925_at	D	FLJ39051	hypothetical protein LOC399972	unknown	other	
+230999_at	D	FLJ39051	hypothetical protein LOC399972	unknown	other	
+229559_at		FLJ40125	protein phosphatase 1B-like	unknown	other	
+208748_s_at		FLOT1	flotillin 1	Plasma Membrane	other	
+202304_at		FNDC3A	fibronectin type III domain containing 3A	unknown	other	
+222692_s_at	D	FNDC3B	fibronectin type III domain containing 3B	unknown	other	
+222693_at	D	FNDC3B	fibronectin type III domain containing 3B	unknown	other	
+229865_at	D	FNDC3B	fibronectin type III domain containing 3B	unknown	other	
+206371_at		FOLR3	folate receptor 3 (gamma)	Extracellular Space	other	
+205119_s_at		FPR1	formyl peptide receptor 1	Plasma Membrane	G-protein coupled receptor	
+204121_at		GADD45G	growth arrest and DNA-damage-inducible, gamma	Nucleus	other	
+219271_at		GALNT14	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 14 (GalNAc-T14)	Cytoplasm	enzyme	
+225604_s_at		GLIPR2	GLI pathogenesis-related 2	Cytoplasm	other	
+219267_at		GLTP	glycolipid transfer protein	Cytoplasm	transporter	
+200744_s_at		GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	Plasma Membrane	enzyme	
+203676_at		GNS	glucosamine (N-acetyl)-6-sulfatase	Cytoplasm	enzyme	
+1554167_a_at		GOLGA7	golgi autoantigen, golgin subfamily a, 7	Cytoplasm	other	
+209409_at		GRB10	growth factor receptor-bound protein 10	Cytoplasm	other	
+212090_at		GRINA	glutamate receptor, ionotropic, N-methyl D-aspartate-associated protein 1 (glutamate binding)	unknown	ion channel	
+201554_x_at	D	GYG1	glycogenin 1	Cytoplasm	enzyme	
+211275_s_at	D	GYG1	glycogenin 1	Cytoplasm	enzyme	
+204225_at	D	HDAC4	histone deacetylase 4	Nucleus	transcription regulator	tributyrin, PXD101, pyroxamide, vorinostat, romidepsin
+228813_at	D	HDAC4	histone deacetylase 4	Nucleus	transcription regulator	tributyrin, PXD101, pyroxamide, vorinostat, romidepsin
+227564_at		HGSNAT	heparan-alpha-glucosaminide N-acetyltransferase	unknown	other	
+226537_at		HINT3	histidine triad nucleotide binding protein 3	unknown	other	
+215071_s_at		HIST1H2AC	histone cluster 1, H2ac	Nucleus	other	
+203932_at	D	HLA-DMB	major histocompatibility complex, class II, DM beta	Plasma Membrane	transmembrane receptor	
+217478_s_at	D	HLA-DMB	major histocompatibility complex, class II, DM beta	Plasma Membrane	transmembrane receptor	
+211990_at	D	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1	Plasma Membrane	transmembrane receptor	
+211991_s_at	D	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1	Plasma Membrane	transmembrane receptor	
+213537_at	D	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1	Plasma Membrane	transmembrane receptor	
+201137_s_at		HLA-DPB1	major histocompatibility complex, class II, DP beta 1	Plasma Membrane	transmembrane receptor	
+212671_s_at		HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1	Plasma Membrane	transmembrane receptor	
+211654_x_at	D	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1	Plasma Membrane	transmembrane receptor	
+211656_x_at	D	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1	Plasma Membrane	transmembrane receptor	
+209823_x_at	D	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1	Plasma Membrane	transmembrane receptor	
+212998_x_at	D	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1	Plasma Membrane	transmembrane receptor	
+212999_x_at	D	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1	Plasma Membrane	transmembrane receptor	
+208894_at		HLA-DRA	major histocompatibility complex, class II, DR alpha	Plasma Membrane	transmembrane receptor	
+209312_x_at	D	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	Plasma Membrane	transmembrane receptor	
+215193_x_at	D	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	Plasma Membrane	transmembrane receptor	
+204670_x_at	D	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	Plasma Membrane	transmembrane receptor	
+221491_x_at	D	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	Plasma Membrane	transmembrane receptor	
+217362_x_at		HLA-DRB6	major histocompatibility complex, class II, DR beta 6 (pseudogene)	unknown	other	
+209787_s_at		HMGN4 (includes EG:10473)	high mobility group nucleosomal binding domain 4	Nucleus	other	
+207180_s_at	D	HTATIP2	HIV-1 Tat interactive protein 2, 30kDa	Nucleus	transcription regulator	
+209448_at	D	HTATIP2	HIV-1 Tat interactive protein 2, 30kDa	Nucleus	transcription regulator	
+230621_at		IAH1	isoamyl acetate-hydrolyzing esterase 1 homolog (S. cerevisiae)	unknown	other	
+226680_at		IKZF5	IKAROS family zinc finger 5 (Pegasus)	Nucleus	other	
+209575_at		IL10RB	interleukin 10 receptor, beta	Plasma Membrane	transmembrane receptor	
+224283_x_at		IL18BP	interleukin 18 binding protein	Extracellular Space	other	
+206618_at		IL18R1	interleukin 18 receptor 1	Plasma Membrane	transmembrane receptor	
+202948_at		IL1R1	interleukin 1 receptor, type I	Plasma Membrane	transmembrane receptor	anakinra
+216243_s_at		IL1RN	interleukin 1 receptor antagonist	Extracellular Space	cytokine	
+242361_at		IMMT	inner membrane protein, mitochondrial (mitofilin)	Cytoplasm	other	
+214735_at		IPCEF1	interaction protein for cytohesin exchange factors 1	Cytoplasm	enzyme	
+231779_at		IRAK2	interleukin-1 receptor-associated kinase 2	Plasma Membrane	kinase	
+220034_at		IRAK3	interleukin-1 receptor-associated kinase 3	Extracellular Space	kinase	
+223831_x_at		ISY1	ISY1 splicing factor homolog (S. cerevisiae)	Nucleus	other	
+213416_at		ITGA4	integrin, alpha 4 (antigen CD49D, alpha 4 subunit of VLA-4 receptor)	Plasma Membrane	other	natalizumab
+216331_at	D	ITGA7	integrin, alpha 7	Plasma Membrane	other	
+209663_s_at	D	ITGA7	integrin, alpha 7	Plasma Membrane	other	
+205842_s_at		JAK2	Janus kinase 2	Cytoplasm	kinase	
+214572_s_at		JAK3	Janus kinase 3	Cytoplasm	kinase	
+228299_at		KCTD20	potassium channel tetramerisation domain containing 20	unknown	ion channel	
+229873_at		KCTD21	potassium channel tetramerisation domain containing 21	unknown	other	
+213474_at		KCTD7	potassium channel tetramerisation domain containing 7	unknown	ion channel	
+201488_x_at		KHDRBS1	KH domain containing, RNA binding, signal transduction associated 1	Nucleus	transcription regulator	
+203144_s_at		KIAA0040	KIAA0040	unknown	other	
+233893_s_at		KIAA1530	KIAA1530	unknown	other	
+227638_at	D	KIAA1632	KIAA1632	unknown	other	
+232031_s_at	D	KIAA1632	KIAA1632	unknown	other	
+226968_at	D	KIF1B	kinesin family member 1B	Cytoplasm	transporter	
+225878_at	D	KIF1B	kinesin family member 1B	Cytoplasm	transporter	
+227250_at		KREMEN1	kringle containing transmembrane protein 1	Plasma Membrane	other	
+227013_at		LATS2	LATS, large tumor suppressor, homolog 2 (Drosophila)	Nucleus	kinase	
+211102_s_at		LILRA2	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 2	Plasma Membrane	other	
+206440_at		LIN7A	lin-7 homolog A (C. elegans)	Cytoplasm	other	
+201847_at		LIPA	lipase A, lysosomal acid, cholesterol esterase	Cytoplasm	enzyme	
+200805_at		LMAN2	lectin, mannose-binding 2	Cytoplasm	transporter	
+218191_s_at	D	LMBRD1	LMBR1 domain containing 1	unknown	other	
+232980_at	D	LMBRD1	LMBR1 domain containing 1	unknown	other	
+228107_at	D	LOC100127983	hypothetical protein LOC100127983	unknown	other	
+1557961_s_at	D	LOC100127983	hypothetical protein LOC100127983	unknown	other	
+229295_at		LOC150166	hypothetical protein LOC150166	unknown	other	
+1555892_s_at		LOC253039	hypothetical LOC253039	unknown	other	
+225028_at		LOC550643	hypothetical LOC550643	unknown	other	
+227567_at		LOC651250	hypothetical LOC651250	unknown	other	
+228648_at		LRG1	leucine-rich alpha-2-glycoprotein 1	Extracellular Space	other	
+239028_at		LYPD6	LY6/PLAUR domain containing 6	Extracellular Space	other	
+220945_x_at		MANSC1	MANSC domain containing 1	unknown	other	
+205698_s_at		MAP2K6	mitogen-activated protein kinase kinase 6	Cytoplasm	kinase	
+202890_at		MAP7	microtubule-associated protein 7	Cytoplasm	other	
+212271_at		MAPK1	mitogen-activated protein kinase 1	Cytoplasm	kinase	
+210449_x_at	D	MAPK14	mitogen-activated protein kinase 14	Cytoplasm	kinase	SCIO-469, RO-3201195
+211087_x_at	D	MAPK14	mitogen-activated protein kinase 14	Cytoplasm	kinase	SCIO-469, RO-3201195
+211561_x_at	D	MAPK14	mitogen-activated protein kinase 14	Cytoplasm	kinase	SCIO-469, RO-3201195
+202530_at	D	MAPK14	mitogen-activated protein kinase 14	Cytoplasm	kinase	SCIO-469, RO-3201195
+229664_at		MAPK8	mitogen-activated protein kinase 8	Cytoplasm	kinase	aplidine
+213256_at		MARCH3	membrane-associated ring finger (C3HC4) 3	Cytoplasm	other	
+218582_at		MARCH5	membrane-associated ring finger (C3HC4) 5	unknown	other	
+209331_s_at		MAX	MYC associated factor X	Nucleus	transcription regulator	
+201152_s_at		MBNL1	muscleblind-like (Drosophila)	Nucleus	other	
+225740_x_at		MDM4	Mdm4 p53 binding protein homolog (mouse)	Nucleus	other	
+43544_at		MED16	mediator complex subunit 16	Nucleus	transcription regulator	
+209199_s_at		MEF2C	myocyte enhancer factor 2C	Nucleus	transcription regulator	
+227055_at		METTL7B	methyltransferase like 7B	unknown	enzyme	
+217868_s_at	D	METTL9 (includes EG:51108)	methyltransferase like 9	unknown	other	
+226220_at	D	METTL9 (includes EG:51108)	methyltransferase like 9	unknown	other	
+222447_at	D	METTL9 (includes EG:51108)	methyltransferase like 9	unknown	other	
+48659_at		MIIP	migration and invasion inhibitory protein	unknown	other	
+213189_at		MINA	MYC induced nuclear antigen	Nucleus	other	
+204423_at		MKLN1	muskelin 1, intracellular mediator containing kelch motifs	Cytoplasm	other	
+201298_s_at		MOBKL1B	MOB1, Mps One Binder kinase activator-like 1B (yeast)	Plasma Membrane	other	
+212754_s_at		MON2	MON2 homolog (S. cerevisiae)	unknown	other	
+226841_at	D	MPEG1	macrophage expressed 1	Cytoplasm	other	
+226818_at	D	MPEG1	macrophage expressed 1	Cytoplasm	other	
+226091_s_at		MRFAP1	Mof4 family associated protein 1	Nucleus	other	
+1555728_a_at		MS4A4A	membrane-spanning 4-domains, subfamily A, member 4	unknown	other	
+227150_at	D	MTF1	metal-regulatory transcription factor 1	Nucleus	transcription regulator	
+205322_s_at	D	MTF1	metal-regulatory transcription factor 1	Nucleus	transcription regulator	
+202198_s_at		MTMR3	myotubularin related protein 3	Cytoplasm	phosphatase	
+1552578_a_at		MYO3B	myosin IIIB	unknown	kinase	
+227761_at		MYO5A	myosin VA (heavy chain 12, myoxin)	Cytoplasm	enzyme	
+202259_s_at	D	N4BP2L2	NEDD4 binding protein 2-like 2	unknown	other	
+202258_s_at	D	N4BP2L2	NEDD4 binding protein 2-like 2	unknown	other	
+227651_at		NACC1	nucleus accumbens associated 1, BEN and BTB (POZ) domain containing	Nucleus	other	
+1555167_s_at		NAMPT	nicotinamide phosphoribosyltransferase	Extracellular Space	cytokine	
+219862_s_at		NARF	nuclear prelamin A recognition factor	Nucleus	enzyme	
+207677_s_at	D	NCF4	neutrophil cytosolic factor 4, 40kDa	Cytoplasm	enzyme	
+205147_x_at	D	NCF4	neutrophil cytosolic factor 4, 40kDa	Cytoplasm	enzyme	
+229895_s_at		NCK1	NCK adaptor protein 1	Cytoplasm	kinase	
+233355_at		NCRNA00176	non-protein coding RNA 176	unknown	other	
+204125_at		NDUFAF1	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, assembly factor 1	Cytoplasm	other	
+208926_at		NEU1	sialidase 1 (lysosomal sialidase)	Cytoplasm	enzyme	
+1560527_at		NF-E4	transcription factor NF-E4	Nucleus	other	
+209930_s_at		NFE2	nuclear factor (erythroid-derived 2), 45kDa	Nucleus	transcription regulator	
+209239_at		NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1	Nucleus	transcription regulator	
+201502_s_at		NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	Cytoplasm	other	
+224304_x_at		NIN	ninein (GSK3B interacting protein)	Cytoplasm	other	
+202891_at		NIT1	nitrilase 1	unknown	enzyme	
+202379_s_at	D	NKTR	natural killer-tumor recognition sequence	Plasma Membrane	other	
+215338_s_at	D	NKTR	natural killer-tumor recognition sequence	Plasma Membrane	other	
+202380_s_at	D	NKTR	natural killer-tumor recognition sequence	Plasma Membrane	other	
+231235_at	D	NKTR	natural killer-tumor recognition sequence	Plasma Membrane	other	
+210113_s_at		NLRP1	NLR family, pyrin domain containing 1	Cytoplasm	other	
+217962_at		NOP10	NOP10 ribonucleoprotein homolog (yeast)	Nucleus	other	
+219458_s_at		NSUN3	NOL1/NOP2/Sun domain family, member 3	unknown	other	
+238983_at		NSUN7	NOL1/NOP2/Sun domain family, member 7	unknown	other	
+207093_s_at		OMG	oligodendrocyte myelin glycoprotein	Plasma Membrane	G-protein coupled receptor	
+222025_s_at		OPLAH	5-oxoprolinase (ATP-hydrolysing)	unknown	enzyme	
+228569_at		PAPOLA	poly(A) polymerase alpha	Nucleus	enzyme	
+232953_at		PCMTD2	protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 2	Cytoplasm	enzyme	
+213159_at	D	PCNX	pecanex homolog (Drosophila)	Plasma Membrane	other	
+213173_at	D	PCNX	pecanex homolog (Drosophila)	Plasma Membrane	other	
+232509_at		PDE4DIP	phosphodiesterase 4D interacting protein	Cytoplasm	enzyme	
+206347_at		PDK3	pyruvate dehydrogenase kinase, isozyme 3	Cytoplasm	kinase	
+221142_s_at	D	PECR	peroxisomal trans-2-enoyl-CoA reductase	Cytoplasm	enzyme	
+223619_x_at	D	PECR	peroxisomal trans-2-enoyl-CoA reductase	Cytoplasm	enzyme	
+201118_at		PGD	phosphogluconate dehydrogenase	Cytoplasm	enzyme	
+219394_at		PGS1	phosphatidylglycerophosphate synthase 1	Cytoplasm	enzyme	
+218517_at	D	PHF17	PHD finger protein 17	Nucleus	other	
+225816_at	D	PHF17	PHD finger protein 17	Nucleus	other	
+227523_s_at	D	PHF20L1	PHD finger protein 20-like 1	unknown	other	
+230098_at	D	PHF20L1	PHD finger protein 20-like 1	unknown	other	
+1554153_a_at	D	PHF21A	PHD finger protein 21A	Nucleus	other	
+227090_at	D	PHF21A	PHD finger protein 21A	Nucleus	other	
+203278_s_at	D	PHF21A	PHD finger protein 21A	Nucleus	other	
+223081_at		PHF23	PHD finger protein 23	unknown	other	
+205702_at	D	PHTF1	putative homeodomain transcription factor 1	Nucleus	transcription regulator	
+210191_s_at	D	PHTF1	putative homeodomain transcription factor 1	Nucleus	transcription regulator	
+219093_at		PID1 (includes EG:55022)	phosphotyrosine interaction domain containing 1	unknown	other	
+1554508_at		PIK3AP1	phosphoinositide-3-kinase adaptor protein 1	Cytoplasm	other	
+206369_s_at		PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	Cytoplasm	kinase	
+235360_at		PLEKHM3	pleckstrin homology domain containing, family M, member 3	unknown	other	
+202122_s_at		PLIN3	perilipin 3	Cytoplasm	other	
+219066_at		PPCDC	phosphopantothenoylcysteine decarboxylase	unknown	enzyme	
+218341_at		PPCS	phosphopantothenoylcysteine synthetase	unknown	enzyme	
+201604_s_at		PPP1R12A	protein phosphatase 1, regulatory (inhibitor) subunit 12A	Cytoplasm	phosphatase	
+1552670_a_at		PPP1R3B	protein phosphatase 1, regulatory (inhibitor) subunit 3B	unknown	other	
+225519_at	D	PPP4R2	protein phosphatase 4, regulatory subunit 2	Cytoplasm	other	
+226317_at	D	PPP4R2	protein phosphatase 4, regulatory subunit 2	Cytoplasm	other	
+202545_at		PRKCD	protein kinase C, delta	Cytoplasm	kinase	
+1552275_s_at	D	PXK	PX domain containing serine/threonine kinase	Cytoplasm	kinase	
+225796_at	D	PXK	PX domain containing serine/threonine kinase	Cytoplasm	kinase	
+1552274_at	D	PXK	PX domain containing serine/threonine kinase	Cytoplasm	kinase	
+202990_at		PYGL	phosphorylase, glycogen, liver	unknown	enzyme	
+205577_at		PYGM	phosphorylase, glycogen, muscle	unknown	enzyme	
+222981_s_at		RAB10	RAB10, member RAS oncogene family	Cytoplasm	enzyme	
+209514_s_at	D	RAB27A	RAB27A, member RAS oncogene family	Cytoplasm	enzyme	
+210951_x_at	D	RAB27A	RAB27A, member RAS oncogene family	Cytoplasm	enzyme	
+219210_s_at		RAB8B	RAB8B, member RAS oncogene family	Cytoplasm	enzyme	
+218310_at		RABGEF1	RAB guanine nucleotide exchange factor (GEF) 1	Cytoplasm	other	
+201222_s_at	D	RAD23B	RAD23 homolog B (S. cerevisiae)	Nucleus	other	
+201223_s_at	D	RAD23B	RAD23 homolog B (S. cerevisiae)	Nucleus	other	
+202101_s_at		RALB	v-ral simian leukemia viral oncogene homolog B (ras related; GTP binding protein)	Cytoplasm	enzyme	
+212033_at	D	RBM25 (includes EG:58517)	RNA binding motif protein 25	Nucleus	other	
+212031_at	D	RBM25 (includes EG:58517)	RNA binding motif protein 25	Nucleus	other	
+208319_s_at		RBM3	RNA binding motif (RNP1, RRM) protein 3	Nucleus	other	
+225265_at	D	RBMS1	RNA binding motif, single stranded interacting protein 1	Nucleus	other	
+203748_x_at	D	RBMS1	RNA binding motif, single stranded interacting protein 1	Nucleus	other	
+232053_x_at	D	RHBDD2	rhomboid domain containing 2	Plasma Membrane	other	
+222995_s_at	D	RHBDD2	rhomboid domain containing 2	Plasma Membrane	other	
+222148_s_at		RHOT1	ras homolog gene family, member T1	Cytoplasm	enzyme	
+209882_at		RIT1	Ras-like without CAAX 1	Plasma Membrane	enzyme	
+221287_at		RNASEL	ribonuclease L (2',5'-oligoisoadenylate synthetase-dependent)	Cytoplasm	enzyme	
+226975_at		RNPC3	RNA-binding region (RNP1, RRM) containing 3	unknown	other	
+223609_at		ROPN1L	ropporin 1-like	unknown	kinase	
+222789_at	D	RSBN1	round spermatid basic protein 1	unknown	other	
+222788_s_at	D	RSBN1	round spermatid basic protein 1	unknown	other	
+222791_at	D	RSBN1	round spermatid basic protein 1	unknown	other	
+213694_at	D	RSBN1	round spermatid basic protein 1	unknown	other	
+222790_s_at	D	RSBN1	round spermatid basic protein 1	unknown	other	
+212302_at		RTF1	Rtf1, Paf1/RNA polymerase II complex component, homolog (S. cerevisiae)	Nucleus	other	
+210222_s_at	D	RTN1	reticulon 1	Cytoplasm	other	
+203485_at	D	RTN1	reticulon 1	Cytoplasm	other	
+208540_x_at	D	S100A11	S100 calcium binding protein A11	Cytoplasm	other	
+200660_at	D	S100A11	S100 calcium binding protein A11	Cytoplasm	other	
+205863_at		S100A12	S100 calcium binding protein A12	Cytoplasm	other	
+203186_s_at		S100A4	S100 calcium binding protein A4	Cytoplasm	other	
+217728_at		S100A6	S100 calcium binding protein A6	Cytoplasm	transporter	
+219129_s_at		SAP30L	SAP30-like	unknown	other	
+200051_at		SART1	squamous cell carcinoma antigen recognized by T cells	Nucleus	other	
+236487_at	D	SCLT1	sodium channel and clathrin linker 1	Plasma Membrane	transporter	
+1569190_at	D	SCLT1	sodium channel and clathrin linker 1	Plasma Membrane	transporter	
+212158_at		SDC2	syndecan 2	Plasma Membrane	other	
+209880_s_at		SELPLG	selectin P ligand	Plasma Membrane	other	
+214790_at		SENP6	SUMO1/sentrin specific peptidase 6	Cytoplasm	peptidase	
+209723_at		SERPINB9	serpin peptidase inhibitor, clade B (ovalbumin), member 9	Cytoplasm	other	
+201356_at		SF3A1	splicing factor 3a, subunit 1, 120kDa	Nucleus	other	
+200686_s_at		SFRS11	splicing factor, arginine/serine-rich 11	Nucleus	other	
+203380_x_at		SFRS5	splicing factor, arginine/serine-rich 5	Nucleus	other	
+209091_s_at	D	SH3GLB1	SH3-domain GRB2-like endophilin B1	Cytoplasm	enzyme	
+210101_x_at	D	SH3GLB1	SH3-domain GRB2-like endophilin B1	Cytoplasm	enzyme	
+220000_at		SIGLEC5	sialic acid binding Ig-like lectin 5	Plasma Membrane	other	
+225056_at	D	SIPA1L2	signal-induced proliferation-associated 1 like 2	unknown	other	
+233587_s_at	D	SIPA1L2	signal-induced proliferation-associated 1 like 2	unknown	other	
+202896_s_at	D	SIRPA	signal-regulatory protein alpha	Plasma Membrane	phosphatase	
+202897_at	D	SIRPA	signal-regulatory protein alpha	Plasma Membrane	phosphatase	
+218797_s_at		SIRT7	sirtuin (silent mating type information regulation 2 homolog) 7 (S. cerevisiae)	Nucleus	enzyme	
+228644_s_at		SLC12A4	solute carrier family 12 (potassium/chloride transporters), member 4	Plasma Membrane	transporter	
+202855_s_at		SLC16A3	solute carrier family 16, member 3 (monocarboxylic acid transporter 4)	Plasma Membrane	transporter	
+205896_at		SLC22A4 (includes EG:6583)	solute carrier family 22 (organic cation/ergothioneine transporter), member 4	Plasma Membrane	transporter	
+32091_at	D	SLC25A44	solute carrier family 25, member 44	Cytoplasm	transporter	
+212683_at	D	SLC25A44	solute carrier family 25, member 44	Cytoplasm	transporter	
+221572_s_at		SLC26A6	solute carrier family 26, member 6	Cytoplasm	transporter	
+237340_at		SLC26A8	solute carrier family 26, member 8	Plasma Membrane	transporter	
+202498_s_at	D	SLC2A3	solute carrier family 2 (facilitated glucose transporter), member 3	Plasma Membrane	transporter	
+202499_s_at	D	SLC2A3	solute carrier family 2 (facilitated glucose transporter), member 3	Plasma Membrane	transporter	
+222088_s_at	D	SLC2A3	solute carrier family 2 (facilitated glucose transporter), member 3	Plasma Membrane	transporter	
+216236_s_at	D	SLC2A3	solute carrier family 2 (facilitated glucose transporter), member 3	Plasma Membrane	transporter	
+202497_x_at	D	SLC2A3	solute carrier family 2 (facilitated glucose transporter), member 3	Plasma Membrane	transporter	
+218041_x_at	D	SLC38A2	solute carrier family 38, member 2	Plasma Membrane	transporter	
+220924_s_at	D	SLC38A2	solute carrier family 38, member 2	Plasma Membrane	transporter	
+222982_x_at	D	SLC38A2	solute carrier family 38, member 2	Plasma Membrane	transporter	
+210542_s_at		SLCO3A1	solute carrier organic anion transporter family, member 3A1	Plasma Membrane	transporter	
+215043_s_at		SMA5	glucuronidase, beta pseudogene	unknown	other	
+204099_at		SMARCD3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3	Nucleus	transcription regulator	
+215223_s_at	D	SOD2	superoxide dismutase 2, mitochondrial	Cytoplasm	enzyme	
+216841_s_at	D	SOD2	superoxide dismutase 2, mitochondrial	Cytoplasm	enzyme	
+221844_x_at		SPCS3	signal peptidase complex subunit 3 homolog (S. cerevisiae)	Cytoplasm	peptidase	
+217995_at		SQRDL (includes EG:58472)	sulfide quinone reductase-like (yeast)	Cytoplasm	enzyme	
+201858_s_at		SRGN	serglycin	Extracellular Space	other	
+217650_x_at		ST3GAL2	ST3 beta-galactoside alpha-2,3-sialyltransferase 2	Cytoplasm	enzyme	
+203759_at		ST3GAL4	ST3 beta-galactoside alpha-2,3-sialyltransferase 4	Cytoplasm	enzyme	
+223103_at		STARD10	StAR-related lipid transfer (START) domain containing 10	Cytoplasm	other	
+205026_at		STAT5B	signal transducer and activator of transcription 5B	Nucleus	transcription regulator	
+1569566_at	D	TBC1D1	TBC1 (tre-2/USP6, BUB2, cdc16) domain family, member 1	Nucleus	other	
+1568713_a_at	D	TBC1D1	TBC1 (tre-2/USP6, BUB2, cdc16) domain family, member 1	Nucleus	other	
+218584_at		TCTN1	tectonic family member 1	unknown	other	
+228285_at		TDRD9	tudor domain containing 9	unknown	other	
+218996_at		TFPT	TCF3 (E2A) fusion partner (in childhood Leukemia)	Nucleus	other	
+203834_s_at		TGOLN2 (includes EG:10618)	trans-golgi network protein 2	Cytoplasm	other	
+226117_at	D	TIFA	TRAF-interacting protein with forkhead-associated domain	unknown	other	
+238858_at	D	TIFA	TRAF-interacting protein with forkhead-associated domain	unknown	other	
+203167_at		TIMP2	TIMP metallopeptidase inhibitor 2	Extracellular Space	other	
+210166_at		TLR5	toll-like receptor 5	Plasma Membrane	transmembrane receptor	
+220832_at		TLR8 (includes EG:51311)	toll-like receptor 8	Plasma Membrane	transmembrane receptor	resiquimod
+200803_s_at		TMBIM6	transmembrane BAX inhibitor motif containing 6	Nucleus	other	
+226529_at		TMEM106B	transmembrane protein 106B	unknown	other	
+203437_at		TMEM11	transmembrane protein 11	Plasma Membrane	G-protein coupled receptor	
+225462_at		TMEM128	transmembrane protein 128	unknown	other	
+222642_s_at	D	TMEM33	transmembrane protein 33	unknown	other	
+218465_at	D	TMEM33	transmembrane protein 33	unknown	other	
+235245_at		TMEM92	transmembrane protein 92	unknown	other	
+206025_s_at	D	TNFAIP6	tumor necrosis factor, alpha-induced protein 6	Extracellular Space	other	
+206026_s_at	D	TNFAIP6	tumor necrosis factor, alpha-induced protein 6	Extracellular Space	other	
+213593_s_at		TRA2A	transformer 2 alpha homolog (Drosophila)	Nucleus	other	
+1729_at		TRADD	TNFRSF1A-associated via death domain	Cytoplasm	other	
+224806_at		TRIM25	tripartite motif-containing 25	Cytoplasm	transcription regulator	
+240389_at		TRPM6	transient receptor potential cation channel, subfamily M, member 6	Plasma Membrane	kinase	
+203272_s_at		TUSC2	tumor suppressor candidate 2	Nucleus	other	
+208864_s_at		TXN	thioredoxin	Cytoplasm	enzyme	
+46270_at	D	UBAP1	ubiquitin associated protein 1	Cytoplasm	other	
+221490_at	D	UBAP1	ubiquitin associated protein 1	Cytoplasm	other	
+209142_s_at	D	UBE2G1	ubiquitin-conjugating enzyme E2G 1 (UBC7 homolog, yeast)	Cytoplasm	enzyme	
+209141_at	D	UBE2G1	ubiquitin-conjugating enzyme E2G 1 (UBC7 homolog, yeast)	Cytoplasm	enzyme	
+242669_at	D	UFM1	ubiquitin-fold modifier 1	Cytoplasm	other	
+218050_at	D	UFM1	ubiquitin-fold modifier 1	Cytoplasm	other	
+203234_at		UPP1	uridine phosphorylase 1	Cytoplasm	enzyme	
+212600_s_at		UQCRC2	ubiquinol-cytochrome c reductase core protein II	Cytoplasm	enzyme	
+225093_at		UTRN	utrophin	Plasma Membrane	transmembrane receptor	
+205844_at	D	VNN1	vanin 1	Plasma Membrane	enzyme	
+1558549_s_at	D	VNN1	vanin 1	Plasma Membrane	enzyme	
+205922_at		VNN2	vanin 2	Cytoplasm	enzyme	
+210849_s_at		VPS41	vacuolar protein sorting 41 homolog (S. cerevisiae)	Cytoplasm	transporter	
+212602_at	D	WDFY3	WD repeat and FYVE domain containing 3	Cytoplasm	enzyme	
+212598_at	D	WDFY3	WD repeat and FYVE domain containing 3	Cytoplasm	enzyme	
+224905_at		WDR26	WD repeat domain 26	Cytoplasm	other	
+201934_at		WDR82	WD repeat domain 82	unknown	other	
+201760_s_at	D	WSB2	WD repeat and SOCS box-containing 2	unknown	other	
+213734_at	D	WSB2	WD repeat and SOCS box-containing 2	unknown	other	
+205672_at		XPA	xeroderma pigmentosum, complementation group A	Nucleus	other	
+209551_at		YIPF4	Yip1 domain family, member 4	Cytoplasm	other	
+1564053_a_at		YTHDF3	YTH domain family, member 3	Cytoplasm	other	
+213390_at		ZC3H4	zinc finger CCCH-type containing 4	unknown	other	
+226496_at		ZCCHC7	zinc finger, CCHC domain containing 7	unknown	other	
+226344_at		ZMAT1	zinc finger, matrin type 1	unknown	other	
+224782_at		ZMAT2	zinc finger, matrin type 2	Nucleus	other	
+214686_at		ZNF266	zinc finger protein 266	Nucleus	other	
+228460_at		ZNF319	zinc finger protein 319	Nucleus	other	
+229743_at		ZNF438	zinc finger protein 438	unknown	other	
+238493_at		ZNF506	zinc finger protein 506	Nucleus	other	
+218312_s_at	D	ZSCAN18	zinc finger and SCAN domain containing 18	unknown	other	
+217593_at	D	ZSCAN18	zinc finger and SCAN domain containing 18	unknown	other	
